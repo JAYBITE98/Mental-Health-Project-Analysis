@@ -1,0 +1,501 @@
+Age,Gender,family_history,treatment,work_interfere,num_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help
+63.0,Male,No,No,Often,6-25,Yes,Yes,Don't know,Yes,No,Yes
+37.0,Female,Yes,No,Rarely,26-100,Yes,Yes,Yes,Not sure,Don't know,Yes
+57.0,Non-binary,No,No,,26-100,No,No,No,Yes,Yes,Maybe
+69.0,Non-binary,No,No,Sometimes,26-100,Yes,No,Don't know,Yes,Don't know,No
+59.0,Female,Yes,No,Sometimes,100-500,No,Yes,No,Yes,Don't know,Maybe
+51.0,Male,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Yes,Maybe
+18.0,Non-binary,Yes,Yes,Often,500+,No,No,Yes,No,No,Yes
+60.0,Male,No,Yes,Never,100-500,No,No,No,No,No,Yes
+53.0,Female,Yes,Yes,Never,26-100,Yes,No,No,Not sure,Don't know,Yes
+37.0,Male,No,No,Often,100-500,Yes,No,No,No,No,Maybe
+60.0,Female,No,No,Never,1-5,Yes,No,No,No,No,No
+24.0,Female,Yes,Yes,Rarely,100-500,No,No,Don't know,Not sure,Yes,No
+44.34791666666667,Male,No,Yes,Never,100-500,No,Yes,Yes,Yes,Don't know,No
+34.0,Non-binary,Yes,No,Never,26-100,Yes,Yes,No,Not sure,Don't know,No
+25.0,Male,Yes,Yes,Never,1-5,Yes,No,Yes,Yes,Yes,Maybe
+24.0,Male,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Yes
+65.0,Non-binary,No,No,Rarely,1-5,Yes,No,Yes,Not sure,Don't know,Yes
+53.0,Female,No,No,Sometimes,1-5,Yes,No,Yes,Yes,Don't know,No
+27.0,Male,No,Yes,,1-5,Yes,No,Don't know,Yes,Yes,Maybe
+44.34791666666667,Female,No,Yes,Never,26-100,No,Yes,No,Not sure,No,No
+36.0,Non-binary,No,No,Often,1-5,No,Yes,Don't know,No,No,No
+56.0,Non-binary,No,Yes,Often,6-25,No,No,No,Not sure,Don't know,Maybe
+31.0,Non-binary,Yes,Yes,,6-25,Yes,Yes,Don't know,Not sure,No,No
+63.0,Non-binary,Yes,No,,500+,Yes,No,Yes,Not sure,Yes,Yes
+39.0,Female,No,Yes,Rarely,6-25,Yes,Yes,No,No,No,Maybe
+31.0,Non-binary,No,No,Rarely,500+,No,No,Don't know,No,Yes,No
+61.0,Female,Yes,No,Often,6-25,Yes,Yes,Don't know,No,Don't know,Yes
+58.0,Male,No,No,Sometimes,26-100,Yes,No,Don't know,Yes,Yes,Maybe
+34.0,Female,Yes,Yes,Often,500+,No,Yes,No,Not sure,Yes,No
+50.0,Female,No,No,Often,100-500,Yes,Yes,Yes,Yes,Yes,No
+49.0,Male,Yes,Yes,Often,100-500,Yes,No,Don't know,No,Don't know,Yes
+34.0,Female,No,Yes,Rarely,6-25,No,Yes,Don't know,No,No,Maybe
+21.0,Male,Yes,No,Never,100-500,No,No,Yes,Not sure,No,No
+23.0,Male,No,No,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes
+58.0,Female,No,No,Rarely,6-25,No,No,Yes,No,Yes,Yes
+45.0,Female,No,No,Rarely,100-500,No,No,Yes,Yes,No,No
+35.0,Male,No,Yes,Sometimes,100-500,No,No,Don't know,No,Don't know,No
+20.0,Male,No,No,Rarely,1-5,No,No,Don't know,Not sure,Yes,Maybe
+18.0,Male,Yes,No,Never,500+,No,No,No,Yes,No,Yes
+39.0,Male,No,Yes,Often,6-25,Yes,Yes,Don't know,Not sure,Yes,Yes
+67.0,Male,No,No,Never,100-500,Yes,No,Don't know,Yes,Yes,Maybe
+26.0,Non-binary,No,Yes,Rarely,500+,Yes,Yes,Yes,Not sure,Yes,No
+58.0,Female,No,No,Never,100-500,Yes,Yes,No,No,Don't know,Maybe
+34.0,Male,Yes,Yes,Often,100-500,Yes,No,Yes,No,Don't know,Maybe
+28.0,Female,No,Yes,,1-5,Yes,Yes,Don't know,Yes,No,Maybe
+65.0,Non-binary,No,No,Rarely,6-25,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+46.0,Female,Yes,Yes,Sometimes,6-25,Yes,No,Don't know,No,Don't know,Maybe
+44.34791666666667,Non-binary,No,No,Sometimes,26-100,No,No,No,Not sure,Yes,Yes
+63.0,Male,No,No,Never,1-5,No,No,Yes,Not sure,No,No
+45.0,Female,Yes,No,Never,500+,No,Yes,No,No,Yes,Yes
+53.0,Female,No,No,Never,1-5,No,Yes,Don't know,Not sure,Yes,Maybe
+18.0,Non-binary,No,No,Rarely,500+,Yes,Yes,Don't know,No,Yes,Yes
+25.0,Male,No,Yes,Rarely,6-25,No,Yes,Yes,No,No,No
+22.0,Female,Yes,Yes,Rarely,26-100,Yes,No,Yes,Not sure,Yes,No
+62.0,Non-binary,Yes,Yes,Never,26-100,No,No,Yes,No,Don't know,Maybe
+27.0,Non-binary,No,Yes,Never,6-25,No,No,Yes,Yes,Don't know,No
+52.0,Male,No,No,Rarely,100-500,No,Yes,Don't know,No,No,No
+44.34791666666667,Non-binary,Yes,Yes,Rarely,1-5,No,No,No,No,Don't know,Maybe
+41.0,Non-binary,No,No,Never,26-100,Yes,Yes,Yes,Not sure,Yes,Yes
+55.0,Non-binary,No,No,,100-500,Yes,Yes,Yes,No,Yes,Yes
+53.0,Female,No,No,Rarely,500+,Yes,No,Yes,Not sure,No,Maybe
+27.0,Male,No,No,Rarely,26-100,No,No,Don't know,Yes,Don't know,Yes
+45.0,Female,No,No,Rarely,500+,Yes,Yes,Don't know,No,Yes,Maybe
+26.0,Non-binary,Yes,No,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+20.0,Male,No,No,Never,500+,No,Yes,Don't know,No,Don't know,Maybe
+37.0,Female,No,Yes,Rarely,100-500,Yes,Yes,No,Yes,Yes,Yes
+41.0,Female,No,No,Often,500+,Yes,No,Don't know,No,Yes,Yes
+68.0,Female,No,Yes,,1-5,Yes,No,Don't know,Not sure,No,No
+20.0,Female,Yes,No,Often,26-100,No,Yes,Yes,Yes,Yes,Maybe
+40.0,Male,No,No,Often,26-100,No,Yes,No,Not sure,No,Maybe
+31.0,Non-binary,Yes,No,Often,100-500,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+61.0,Female,No,Yes,Never,500+,No,No,Yes,Yes,Don't know,Yes
+33.0,Female,No,No,Never,6-25,No,Yes,No,No,No,No
+60.0,Female,No,Yes,Often,26-100,Yes,Yes,Yes,No,No,Yes
+24.0,Non-binary,Yes,No,Never,500+,Yes,No,Yes,No,Don't know,Maybe
+40.0,Male,No,No,Rarely,500+,No,No,Don't know,Not sure,Yes,Maybe
+67.0,Female,No,No,Often,1-5,No,No,Don't know,Not sure,Yes,Yes
+53.0,Non-binary,No,No,Never,6-25,Yes,No,No,Yes,Don't know,No
+44.34791666666667,Female,No,No,Often,26-100,Yes,No,No,Not sure,No,Yes
+57.0,Non-binary,Yes,Yes,Never,1-5,No,No,No,No,No,Maybe
+65.0,Female,No,No,Rarely,6-25,Yes,Yes,Yes,Yes,Don't know,Maybe
+27.0,Non-binary,No,Yes,Never,26-100,Yes,Yes,Don't know,No,Yes,Maybe
+33.0,Male,No,Yes,Rarely,1-5,Yes,Yes,Don't know,Yes,No,Yes
+28.0,Female,No,Yes,Rarely,6-25,Yes,No,Yes,No,Yes,Yes
+69.0,Female,No,Yes,Often,26-100,Yes,Yes,Yes,Not sure,No,No
+69.0,Non-binary,Yes,No,Rarely,6-25,Yes,No,No,Not sure,Don't know,Yes
+29.0,Male,Yes,No,Rarely,500+,Yes,Yes,Don't know,No,No,Maybe
+44.0,Male,Yes,Yes,Often,100-500,Yes,Yes,Yes,Yes,Don't know,Yes
+19.0,Female,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,No,No
+44.34791666666667,Non-binary,No,No,Often,500+,No,Yes,No,Yes,Don't know,No
+65.0,Female,Yes,No,Never,6-25,Yes,Yes,No,No,Don't know,No
+39.0,Male,No,Yes,Sometimes,500+,No,No,No,No,No,No
+68.0,Male,No,No,Often,100-500,Yes,No,No,No,Yes,No
+44.0,Male,Yes,No,Often,100-500,Yes,Yes,Don't know,Yes,Don't know,Maybe
+69.0,Female,No,No,Rarely,6-25,Yes,Yes,Don't know,Not sure,Yes,Maybe
+60.0,Non-binary,No,Yes,Rarely,100-500,Yes,No,No,No,Don't know,Maybe
+65.0,Male,No,No,Often,500+,No,No,Don't know,Yes,No,No
+44.34791666666667,Male,No,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,Yes
+33.0,Male,Yes,Yes,Rarely,500+,Yes,Yes,Yes,Not sure,Don't know,Yes
+35.0,Non-binary,No,No,Never,6-25,No,Yes,Don't know,Yes,No,Yes
+28.0,Female,No,No,Often,100-500,Yes,No,Don't know,No,No,Yes
+68.0,Male,No,No,Often,26-100,Yes,No,No,Not sure,Don't know,Yes
+62.0,Non-binary,Yes,Yes,Often,6-25,No,No,No,Yes,Don't know,Yes
+44.34791666666667,Male,Yes,No,Often,6-25,Yes,No,No,Yes,Yes,Maybe
+42.0,Male,No,Yes,Never,26-100,Yes,No,Yes,Not sure,Yes,Maybe
+20.0,Male,Yes,No,,100-500,No,Yes,Yes,Yes,Don't know,No
+48.0,Male,No,Yes,Often,500+,No,No,No,No,Yes,Maybe
+32.0,Male,No,Yes,Often,1-5,No,No,Yes,Yes,No,Maybe
+30.0,Male,Yes,Yes,Rarely,26-100,Yes,No,Yes,Yes,No,Maybe
+47.0,Female,No,No,Sometimes,1-5,No,Yes,Don't know,Yes,No,Yes
+40.0,Male,No,Yes,Often,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+37.0,Female,No,No,Sometimes,6-25,Yes,No,Don't know,Not sure,No,Yes
+68.0,Female,No,No,Often,6-25,No,Yes,No,No,No,Yes
+32.0,Female,No,No,Often,100-500,Yes,Yes,No,Yes,Yes,Maybe
+32.0,Non-binary,Yes,No,Never,500+,Yes,Yes,No,Yes,Don't know,Yes
+19.0,Male,Yes,No,Rarely,500+,No,Yes,Yes,Yes,Don't know,No
+60.0,Female,No,No,Rarely,100-500,No,Yes,Don't know,Yes,No,Yes
+30.0,Male,No,No,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Maybe
+43.0,Female,Yes,No,Never,100-500,Yes,Yes,No,Not sure,Yes,No
+39.0,Male,No,Yes,Rarely,100-500,Yes,Yes,No,No,Yes,Yes
+35.0,Female,Yes,No,Often,100-500,Yes,No,No,Not sure,Don't know,Maybe
+22.0,Female,No,No,Often,100-500,No,Yes,No,Yes,No,Maybe
+67.0,Female,Yes,No,Often,6-25,No,No,No,Not sure,Don't know,No
+35.0,Female,No,No,Rarely,1-5,No,No,No,Yes,Yes,Maybe
+40.0,Female,No,Yes,Rarely,500+,No,Yes,No,No,No,Maybe
+59.0,Male,Yes,No,Rarely,1-5,Yes,Yes,Don't know,No,Don't know,No
+50.0,Male,No,No,Often,6-25,Yes,Yes,Yes,Not sure,Yes,Yes
+43.0,Male,No,No,Often,26-100,No,Yes,Yes,No,Don't know,No
+61.0,Non-binary,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,No,Don't know,No
+52.0,Female,Yes,No,Never,26-100,Yes,Yes,Don't know,Not sure,No,No
+39.0,Male,No,No,Sometimes,6-25,No,No,Yes,No,Yes,Yes
+19.0,Non-binary,Yes,No,Sometimes,500+,Yes,No,No,No,Don't know,Yes
+25.0,Female,No,Yes,Never,26-100,Yes,No,Yes,Yes,Don't know,Yes
+34.0,Female,Yes,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,Yes
+29.0,Male,Yes,Yes,Often,100-500,No,No,Yes,No,Don't know,Yes
+55.0,Female,Yes,Yes,Sometimes,500+,No,No,No,No,Yes,No
+34.0,Male,Yes,No,Never,100-500,No,Yes,Don't know,Yes,Don't know,Yes
+20.0,Female,No,No,Never,500+,No,Yes,Don't know,Not sure,No,No
+24.0,Female,No,No,Often,500+,No,Yes,Yes,Yes,No,No
+56.0,Non-binary,No,No,Rarely,1-5,No,No,Don't know,Yes,No,Yes
+45.0,Male,Yes,Yes,Rarely,500+,No,No,Yes,Not sure,Don't know,Maybe
+40.0,Female,Yes,No,Rarely,1-5,No,Yes,Yes,No,No,Maybe
+64.0,Female,No,Yes,Sometimes,26-100,Yes,No,Don't know,No,Yes,Yes
+68.0,Female,No,No,Rarely,500+,Yes,Yes,Don't know,Not sure,Yes,Yes
+38.0,Female,Yes,Yes,Never,26-100,No,No,Yes,Yes,Don't know,Yes
+45.0,Male,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,Yes
+56.0,Female,Yes,No,Often,1-5,Yes,Yes,Don't know,No,Yes,No
+50.0,Male,No,No,Rarely,100-500,No,No,No,No,Yes,Maybe
+25.0,Male,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Yes,No
+42.0,Male,No,No,Rarely,6-25,No,Yes,Yes,Yes,Yes,Maybe
+54.0,Female,Yes,Yes,Never,100-500,No,No,Yes,No,Yes,No
+30.0,Male,No,No,Often,1-5,Yes,Yes,Don't know,Yes,Yes,No
+34.0,Non-binary,Yes,Yes,Often,6-25,Yes,Yes,No,Not sure,Yes,Yes
+20.0,Male,No,Yes,Never,26-100,Yes,No,Don't know,Not sure,No,No
+44.34791666666667,Female,Yes,Yes,Never,1-5,Yes,Yes,Don't know,No,Yes,No
+45.0,Non-binary,Yes,No,Never,100-500,Yes,No,No,No,Yes,Yes
+18.0,Non-binary,No,No,Often,26-100,No,No,Don't know,Not sure,Yes,Maybe
+51.0,Male,Yes,No,Never,26-100,Yes,No,Yes,Yes,Don't know,Maybe
+69.0,Male,Yes,No,Often,1-5,Yes,Yes,No,Yes,Don't know,No
+52.0,Female,Yes,Yes,,100-500,No,Yes,No,Not sure,No,Maybe
+61.0,Non-binary,No,No,Often,1-5,No,No,Yes,Yes,Don't know,No
+64.0,Female,No,Yes,Rarely,6-25,Yes,Yes,Don't know,No,No,No
+65.0,Female,No,Yes,Rarely,6-25,Yes,No,Don't know,Not sure,Don't know,Maybe
+65.0,Male,No,No,Often,500+,Yes,No,No,Yes,Don't know,Maybe
+60.0,Male,No,Yes,Never,26-100,No,Yes,Yes,No,Don't know,Maybe
+30.0,Female,No,Yes,Never,500+,No,Yes,No,No,Don't know,Maybe
+41.0,Female,Yes,No,Never,100-500,Yes,Yes,Don't know,Not sure,No,Maybe
+45.0,Female,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,Yes,Maybe
+22.0,Non-binary,No,No,Never,500+,Yes,Yes,Yes,Yes,No,Maybe
+60.0,Female,No,No,Sometimes,6-25,Yes,No,No,Not sure,Yes,Maybe
+39.0,Male,No,No,,6-25,No,Yes,No,No,Don't know,Yes
+57.0,Male,Yes,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Maybe
+38.0,Female,Yes,Yes,Often,1-5,Yes,Yes,Yes,No,Yes,Yes
+60.0,Non-binary,No,No,Often,500+,No,Yes,Don't know,No,Yes,No
+25.0,Female,Yes,Yes,Often,26-100,Yes,No,Yes,Not sure,Yes,No
+64.0,Female,No,No,Rarely,500+,Yes,Yes,Don't know,No,Don't know,Yes
+37.0,Non-binary,Yes,Yes,Rarely,26-100,Yes,No,Don't know,No,No,Yes
+50.0,Male,Yes,No,Never,500+,Yes,No,Yes,Yes,Yes,Maybe
+37.0,Male,Yes,No,Rarely,500+,Yes,No,Don't know,No,No,Maybe
+60.0,Male,Yes,No,Often,6-25,Yes,No,Yes,No,Don't know,No
+44.0,Non-binary,No,No,Never,26-100,No,Yes,No,Yes,Yes,Maybe
+38.0,Male,No,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,Yes
+43.0,Non-binary,Yes,No,Often,26-100,No,Yes,Yes,Not sure,Don't know,Maybe
+62.0,Female,No,No,Often,500+,Yes,Yes,Don't know,No,Don't know,No
+36.0,Female,No,No,Rarely,26-100,Yes,No,Don't know,No,No,Maybe
+53.0,Male,No,Yes,Sometimes,500+,No,No,Don't know,No,No,Maybe
+26.0,Male,No,Yes,Often,1-5,Yes,No,Yes,No,Don't know,Yes
+30.0,Male,No,No,Often,6-25,No,No,Don't know,No,Yes,Yes
+44.0,Female,Yes,Yes,Rarely,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+60.0,Male,Yes,No,Often,1-5,Yes,Yes,No,Not sure,No,No
+42.0,Male,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,Don't know,No
+44.34791666666667,Non-binary,No,No,Never,6-25,Yes,Yes,Yes,Not sure,Yes,No
+65.0,Female,No,Yes,Sometimes,6-25,Yes,Yes,Yes,Not sure,Don't know,No
+29.0,Non-binary,No,No,Often,6-25,No,Yes,No,Yes,Yes,No
+57.0,Male,Yes,No,Rarely,6-25,Yes,No,Yes,Yes,No,Yes
+54.0,Male,No,No,Often,26-100,No,No,Yes,Not sure,Yes,No
+37.0,Female,Yes,No,Rarely,6-25,No,No,No,No,Yes,No
+43.0,Female,No,No,Never,100-500,Yes,No,No,Yes,Don't know,Maybe
+53.0,Female,No,No,,100-500,No,Yes,Yes,Not sure,Yes,Yes
+18.0,Male,Yes,Yes,Rarely,6-25,No,No,Yes,No,Yes,Maybe
+37.0,Non-binary,No,Yes,Never,500+,No,No,Don't know,No,Don't know,Maybe
+36.0,Female,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes
+31.0,Male,No,Yes,Often,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+45.0,Female,No,Yes,Sometimes,100-500,No,No,No,Not sure,No,Maybe
+68.0,Male,No,No,Rarely,100-500,No,No,No,Yes,Yes,No
+55.0,Female,Yes,No,Often,1-5,No,No,No,No,Yes,Yes
+56.0,Male,Yes,No,Rarely,1-5,Yes,No,No,Yes,Don't know,Maybe
+59.0,Non-binary,Yes,Yes,Often,100-500,No,No,Yes,Yes,Don't know,Maybe
+38.0,Female,Yes,No,Never,500+,Yes,No,Yes,No,Yes,Yes
+47.0,Female,Yes,No,Never,26-100,Yes,No,Don't know,No,Don't know,Yes
+46.0,Male,No,No,Never,26-100,No,Yes,No,Yes,Don't know,Maybe
+46.0,Male,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Yes,Maybe
+61.0,Male,Yes,No,Often,100-500,No,Yes,Don't know,Not sure,Don't know,Maybe
+31.0,Male,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Yes
+50.0,Non-binary,Yes,No,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,No
+48.0,Male,No,Yes,Never,1-5,Yes,Yes,No,No,No,No
+68.0,Non-binary,No,Yes,Rarely,1-5,No,No,Don't know,No,Don't know,No
+68.0,Non-binary,Yes,Yes,Rarely,100-500,Yes,No,No,No,Yes,No
+65.0,Male,No,Yes,Never,26-100,Yes,No,Don't know,No,Don't know,Yes
+28.0,Female,No,No,Rarely,1-5,No,Yes,Don't know,Not sure,Don't know,Yes
+60.0,Non-binary,No,No,Rarely,500+,Yes,No,Don't know,Not sure,No,No
+23.0,Male,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+36.0,Male,No,Yes,Often,6-25,No,Yes,No,No,No,Maybe
+50.0,Non-binary,No,Yes,Rarely,100-500,Yes,Yes,Don't know,Yes,Don't know,Yes
+60.0,Male,No,No,Sometimes,6-25,No,No,No,Not sure,Don't know,No
+58.0,Female,No,No,Often,100-500,Yes,No,No,Yes,No,Yes
+57.0,Male,Yes,No,Often,26-100,Yes,Yes,Don't know,Yes,Yes,No
+44.34791666666667,Male,Yes,No,Never,26-100,No,No,Don't know,Yes,Yes,No
+23.0,Male,No,No,Rarely,26-100,No,No,Yes,No,Yes,Maybe
+66.0,Non-binary,No,No,Never,26-100,Yes,Yes,Don't know,No,Don't know,Maybe
+33.0,Non-binary,Yes,No,Often,500+,Yes,Yes,No,Not sure,No,Maybe
+61.0,Non-binary,Yes,Yes,Sometimes,500+,No,No,No,Yes,Don't know,Yes
+37.0,Male,Yes,No,Often,6-25,No,No,Yes,No,No,Maybe
+32.0,Male,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+69.0,Female,No,Yes,Often,100-500,No,Yes,No,No,Yes,Yes
+30.0,Male,Yes,No,,26-100,Yes,No,No,No,Don't know,Yes
+27.0,Female,No,No,Never,1-5,Yes,Yes,No,No,Don't know,Yes
+19.0,Male,Yes,Yes,Never,1-5,Yes,No,No,No,No,Maybe
+20.0,Male,No,No,Sometimes,1-5,No,Yes,No,Not sure,No,No
+33.0,Male,No,Yes,,100-500,No,No,Don't know,Not sure,No,Maybe
+48.0,Female,No,Yes,Rarely,1-5,Yes,No,Yes,No,Don't know,No
+57.0,Female,Yes,Yes,Sometimes,1-5,Yes,No,Don't know,No,No,Yes
+67.0,Non-binary,No,No,Never,6-25,Yes,Yes,Yes,Yes,No,Maybe
+22.0,Female,Yes,No,Never,100-500,No,Yes,No,No,No,Maybe
+47.0,Male,No,No,Never,100-500,No,Yes,Yes,Yes,Don't know,No
+44.0,Male,Yes,No,Rarely,1-5,No,Yes,Yes,No,No,Maybe
+58.0,Male,No,No,Sometimes,100-500,Yes,No,Yes,Not sure,Don't know,Maybe
+44.34791666666667,Female,No,No,Often,6-25,No,No,Don't know,Not sure,No,Maybe
+30.0,Non-binary,No,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Yes
+63.0,Female,Yes,Yes,Never,26-100,No,Yes,No,Not sure,Yes,No
+62.0,Female,No,Yes,Rarely,6-25,No,No,Yes,Not sure,Don't know,Maybe
+42.0,Non-binary,No,No,Rarely,26-100,No,No,Yes,Not sure,Don't know,No
+49.0,Male,Yes,Yes,Often,1-5,Yes,Yes,Yes,Not sure,Yes,Yes
+43.0,Male,No,No,Rarely,26-100,No,No,Yes,Not sure,No,Yes
+33.0,Male,Yes,No,Never,26-100,Yes,No,No,Yes,Don't know,No
+27.0,Male,Yes,No,Often,1-5,Yes,Yes,Don't know,No,Don't know,Maybe
+44.34791666666667,Female,Yes,Yes,Never,26-100,No,Yes,Don't know,No,No,Maybe
+62.0,Female,Yes,No,Often,6-25,Yes,No,Yes,No,No,Yes
+18.0,Female,No,Yes,Sometimes,1-5,Yes,No,Don't know,Not sure,No,Yes
+44.34791666666667,Non-binary,No,Yes,Never,100-500,No,Yes,Yes,Not sure,No,Yes
+67.0,Female,Yes,No,Rarely,26-100,Yes,Yes,No,No,No,Yes
+24.0,Male,Yes,No,Rarely,6-25,No,No,No,Not sure,Yes,Maybe
+67.0,Female,No,No,Often,100-500,No,No,Don't know,No,Don't know,Yes
+45.0,Male,No,Yes,Often,1-5,Yes,No,Yes,Yes,Yes,No
+32.0,Male,No,Yes,,1-5,Yes,Yes,No,No,No,No
+29.0,Female,Yes,Yes,Rarely,1-5,No,No,Don't know,Not sure,Don't know,No
+69.0,Male,Yes,Yes,Never,6-25,Yes,No,No,No,Yes,Maybe
+62.0,Male,Yes,No,,100-500,No,No,No,No,Don't know,No
+44.34791666666667,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Not sure,Yes,No
+47.0,Female,No,Yes,Rarely,6-25,Yes,No,Don't know,Yes,No,Maybe
+21.0,Male,No,Yes,Rarely,500+,Yes,Yes,Yes,Yes,Yes,Yes
+53.0,Non-binary,No,No,Rarely,6-25,No,Yes,Don't know,Not sure,No,Yes
+33.0,Female,No,No,Never,500+,No,No,No,No,Yes,Yes
+25.0,Non-binary,No,Yes,Sometimes,100-500,Yes,No,Yes,No,Yes,Yes
+47.0,Male,Yes,No,Sometimes,1-5,No,Yes,Yes,Not sure,No,Yes
+26.0,Male,Yes,Yes,Often,1-5,Yes,Yes,Yes,Not sure,Yes,Maybe
+69.0,Male,No,No,Often,26-100,No,Yes,Yes,Not sure,Don't know,No
+47.0,Female,No,No,Often,1-5,Yes,No,Don't know,No,No,Yes
+60.0,Male,No,No,Sometimes,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+51.0,Female,Yes,Yes,Never,6-25,Yes,No,Yes,Yes,Don't know,No
+53.0,Female,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Don't know,No
+56.0,Male,Yes,Yes,Never,1-5,Yes,No,Don't know,No,Don't know,Maybe
+38.0,Female,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,Don't know,Yes
+66.0,Female,Yes,No,Often,100-500,No,Yes,Yes,No,Yes,Maybe
+46.0,Female,No,No,Rarely,1-5,No,No,Don't know,No,Yes,No
+57.0,Female,Yes,No,Often,1-5,No,No,Yes,Not sure,Yes,Yes
+64.0,Male,Yes,No,Rarely,1-5,No,No,Yes,No,No,Yes
+50.0,Non-binary,No,No,Never,26-100,Yes,No,Yes,Not sure,No,Maybe
+45.0,Male,No,No,Never,26-100,Yes,No,No,No,Yes,Maybe
+53.0,Non-binary,Yes,No,Often,26-100,Yes,Yes,Yes,Not sure,Yes,No
+46.0,Female,No,No,Often,6-25,No,Yes,Don't know,Not sure,No,No
+28.0,Non-binary,Yes,Yes,Often,100-500,No,Yes,No,No,No,No
+65.0,Male,Yes,No,Never,6-25,Yes,Yes,Don't know,No,Don't know,No
+48.0,Non-binary,Yes,No,Often,6-25,Yes,No,Don't know,No,Yes,Yes
+46.0,Non-binary,No,No,Often,1-5,No,No,Don't know,No,Yes,Maybe
+34.0,Female,No,Yes,Often,500+,Yes,No,Yes,Not sure,No,Maybe
+66.0,Female,No,No,Sometimes,500+,No,No,Don't know,Not sure,No,Yes
+33.0,Male,Yes,No,Often,1-5,Yes,Yes,Don't know,Not sure,Yes,Yes
+58.0,Female,No,No,Often,500+,No,Yes,Don't know,No,Don't know,Maybe
+35.0,Male,No,Yes,Often,6-25,No,Yes,No,No,No,No
+67.0,Female,Yes,No,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+67.0,Male,Yes,No,Never,26-100,Yes,Yes,Yes,Yes,Yes,Maybe
+51.0,Non-binary,No,No,Sometimes,6-25,Yes,No,No,Yes,Don't know,Maybe
+49.0,Non-binary,Yes,Yes,Never,6-25,Yes,Yes,Don't know,Yes,Yes,Yes
+58.0,Female,No,Yes,,100-500,Yes,No,No,Not sure,Don't know,Yes
+33.0,Female,No,No,Often,500+,No,Yes,No,Yes,No,Yes
+35.0,Male,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Not sure,No,Yes
+46.0,Male,Yes,Yes,Never,6-25,No,Yes,Yes,No,Yes,Yes
+22.0,Non-binary,No,No,Never,1-5,Yes,No,No,Not sure,No,Maybe
+63.0,Female,Yes,No,Never,1-5,No,Yes,Don't know,Not sure,Don't know,No
+36.0,Female,No,No,Often,6-25,No,No,Yes,Not sure,Don't know,Yes
+33.0,Female,No,No,Rarely,1-5,No,Yes,Don't know,Yes,Don't know,Yes
+35.0,Male,Yes,No,Often,500+,No,No,Yes,Yes,Yes,Yes
+39.0,Female,No,No,Rarely,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+38.0,Male,No,No,Often,26-100,Yes,No,Don't know,No,Don't know,Maybe
+52.0,Male,Yes,Yes,Often,100-500,No,Yes,Don't know,Yes,No,Maybe
+23.0,Non-binary,Yes,No,Rarely,26-100,Yes,Yes,No,Yes,Yes,No
+26.0,Male,No,No,Rarely,6-25,No,No,Yes,Yes,Don't know,No
+27.0,Male,No,Yes,Never,6-25,No,No,Don't know,No,Don't know,Yes
+32.0,Male,No,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Yes
+42.0,Female,No,No,Rarely,1-5,Yes,No,No,Yes,Yes,Yes
+62.0,Male,Yes,No,Sometimes,6-25,No,Yes,No,Yes,Yes,No
+27.0,Male,No,Yes,Sometimes,500+,Yes,Yes,Don't know,No,No,Yes
+63.0,Female,No,No,Sometimes,500+,No,No,Don't know,Not sure,No,Yes
+31.0,Female,No,No,Never,500+,No,No,Yes,Yes,No,Maybe
+22.0,Female,Yes,Yes,Rarely,500+,No,Yes,Yes,Yes,No,No
+44.0,Non-binary,Yes,No,Often,26-100,No,Yes,No,No,Yes,Maybe
+44.0,Male,No,Yes,Rarely,1-5,Yes,Yes,No,Not sure,Yes,Maybe
+39.0,Male,Yes,No,Never,26-100,No,Yes,Yes,Yes,Don't know,Maybe
+52.0,Male,No,No,Sometimes,6-25,Yes,No,Yes,Yes,Don't know,Maybe
+47.0,Female,Yes,No,Never,500+,Yes,No,Yes,Not sure,Don't know,Maybe
+44.0,Male,No,No,Sometimes,500+,Yes,No,Yes,No,Yes,Maybe
+21.0,Male,Yes,Yes,Never,500+,Yes,No,Don't know,No,Don't know,Maybe
+31.0,Female,No,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Yes
+44.0,Male,No,No,Often,100-500,No,No,Don't know,Yes,No,No
+42.0,Female,Yes,Yes,Sometimes,26-100,Yes,No,No,Not sure,Yes,Maybe
+67.0,Male,No,Yes,Sometimes,1-5,Yes,No,Yes,No,No,Maybe
+55.0,Male,No,Yes,Rarely,6-25,No,No,Don't know,No,Don't know,No
+62.0,Non-binary,No,Yes,Rarely,100-500,No,No,Yes,Not sure,Yes,Yes
+19.0,Non-binary,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes
+66.0,Female,No,No,Never,1-5,Yes,Yes,No,Yes,Don't know,No
+54.0,Male,Yes,No,Often,6-25,No,No,Don't know,Not sure,Don't know,No
+42.0,Male,No,Yes,Often,100-500,No,No,Don't know,Yes,Yes,No
+48.0,Non-binary,Yes,No,Rarely,500+,Yes,No,Yes,Yes,No,No
+18.0,Female,Yes,No,Never,1-5,No,Yes,Don't know,Yes,Don't know,Yes
+40.0,Male,No,Yes,Often,500+,Yes,Yes,Don't know,Not sure,Don't know,No
+37.0,Non-binary,Yes,Yes,,1-5,Yes,Yes,Yes,No,Yes,Maybe
+66.0,Male,Yes,No,Sometimes,26-100,Yes,No,Yes,No,Yes,Yes
+42.0,Female,No,Yes,Often,26-100,No,No,No,No,Yes,No
+44.0,Male,No,Yes,Never,6-25,Yes,Yes,Don't know,No,Don't know,No
+52.0,Female,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Not sure,Don't know,Yes
+65.0,Male,No,Yes,,500+,Yes,No,Don't know,No,No,Yes
+65.0,Female,No,Yes,Often,100-500,Yes,Yes,Don't know,Not sure,No,Maybe
+52.0,Non-binary,No,No,Never,26-100,Yes,No,Yes,No,Don't know,No
+69.0,Female,No,No,Never,500+,Yes,No,Don't know,Yes,Don't know,No
+56.0,Male,No,No,Never,6-25,No,No,Don't know,Not sure,Don't know,Maybe
+32.0,Male,No,No,Sometimes,100-500,Yes,No,No,Not sure,Yes,No
+49.0,Male,No,Yes,Never,1-5,No,No,Don't know,Yes,Yes,Maybe
+32.0,Male,No,No,Sometimes,1-5,Yes,Yes,No,Not sure,No,Yes
+35.0,Male,No,No,Never,500+,Yes,Yes,No,Not sure,No,Maybe
+45.0,Female,Yes,No,Never,1-5,No,Yes,Yes,No,No,Yes
+49.0,Non-binary,No,No,Never,1-5,No,No,Don't know,Not sure,Yes,Maybe
+19.0,Male,No,Yes,Never,26-100,Yes,Yes,Don't know,Not sure,Yes,Yes
+42.0,Male,No,No,Rarely,6-25,Yes,Yes,No,Not sure,No,Yes
+39.0,Non-binary,Yes,No,Often,1-5,No,Yes,Yes,Not sure,Yes,Maybe
+60.0,Male,Yes,Yes,,1-5,No,Yes,No,No,No,Maybe
+61.0,Non-binary,No,Yes,Sometimes,100-500,No,No,No,Not sure,Don't know,Maybe
+69.0,Non-binary,No,No,Sometimes,500+,No,Yes,No,Not sure,Don't know,Maybe
+43.0,Non-binary,No,No,Often,26-100,No,No,Don't know,Not sure,Yes,Yes
+64.0,Male,No,No,Rarely,500+,Yes,No,Don't know,Not sure,Don't know,No
+28.0,Female,Yes,No,,100-500,No,Yes,Don't know,No,No,Maybe
+47.0,Female,No,No,Never,100-500,Yes,Yes,Don't know,No,No,Maybe
+26.0,Female,No,No,Sometimes,100-500,No,No,Yes,No,Yes,Maybe
+57.0,Male,No,Yes,Rarely,1-5,Yes,Yes,No,Not sure,No,Maybe
+52.0,Female,Yes,Yes,Never,500+,Yes,Yes,Yes,Yes,Don't know,No
+19.0,Female,Yes,Yes,Sometimes,500+,Yes,No,No,Yes,No,No
+43.0,Female,No,No,Sometimes,500+,Yes,No,No,No,Don't know,Maybe
+55.0,Female,Yes,No,Rarely,6-25,Yes,Yes,Yes,No,Yes,No
+54.0,Male,Yes,No,Rarely,26-100,No,Yes,Yes,No,Yes,No
+60.0,Female,No,No,Rarely,1-5,No,No,No,No,No,Maybe
+19.0,Male,Yes,No,Never,26-100,No,Yes,Don't know,No,Don't know,Maybe
+23.0,Female,Yes,Yes,Often,1-5,No,No,Don't know,Yes,Yes,Maybe
+59.0,Female,No,No,Never,500+,No,Yes,No,No,No,No
+45.0,Male,Yes,No,Rarely,6-25,No,No,No,Yes,No,Yes
+26.0,Female,No,Yes,Sometimes,6-25,No,No,Yes,Yes,Don't know,Maybe
+47.0,Female,No,No,Never,500+,Yes,No,Yes,Not sure,Don't know,Maybe
+29.0,Female,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Yes,Yes,No
+21.0,Male,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Maybe
+34.0,Non-binary,Yes,Yes,Never,500+,No,Yes,Yes,No,Don't know,Maybe
+42.0,Male,No,Yes,Never,1-5,Yes,No,Don't know,No,Don't know,Maybe
+38.0,Non-binary,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,No
+31.0,Male,No,No,Often,100-500,Yes,No,Yes,Yes,Yes,No
+47.0,Male,No,Yes,Often,6-25,No,Yes,Don't know,Not sure,Yes,Yes
+38.0,Non-binary,No,No,Rarely,1-5,No,No,Yes,No,Yes,Maybe
+39.0,Female,No,No,Often,6-25,Yes,Yes,No,No,No,Yes
+66.0,Female,No,No,Often,1-5,Yes,Yes,Don't know,No,No,Maybe
+42.0,Male,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,No,No
+35.0,Male,No,No,Rarely,1-5,No,No,Don't know,No,Don't know,Yes
+44.34791666666667,Non-binary,Yes,Yes,Never,100-500,No,Yes,No,No,Don't know,Yes
+44.0,Female,Yes,No,Often,500+,Yes,Yes,No,Not sure,Yes,Yes
+34.0,Non-binary,No,No,Often,500+,No,Yes,No,Yes,Yes,Yes
+44.34791666666667,Male,No,Yes,Rarely,1-5,No,Yes,Yes,Yes,Don't know,No
+48.0,Non-binary,No,No,Never,26-100,No,Yes,Yes,Not sure,No,Maybe
+19.0,Male,No,Yes,Rarely,6-25,No,No,No,No,No,Yes
+65.0,Non-binary,No,No,Rarely,1-5,No,Yes,Don't know,Yes,No,Maybe
+52.0,Female,No,No,Never,1-5,Yes,No,Don't know,No,No,Yes
+21.0,Male,No,No,Never,6-25,Yes,No,No,Not sure,Yes,Maybe
+40.0,Male,No,No,Sometimes,1-5,Yes,No,No,No,No,No
+32.0,Male,No,No,Never,6-25,No,Yes,Don't know,No,No,No
+44.34791666666667,Female,No,Yes,Rarely,100-500,No,Yes,No,Yes,Don't know,Yes
+22.0,Male,Yes,No,Often,26-100,No,No,Don't know,Yes,Don't know,No
+67.0,Female,No,No,Never,500+,No,Yes,No,Not sure,Yes,No
+59.0,Non-binary,No,Yes,Never,500+,No,No,Don't know,Not sure,No,Maybe
+20.0,Female,No,No,Never,26-100,Yes,No,No,Not sure,Yes,Maybe
+66.0,Non-binary,No,No,Never,6-25,Yes,Yes,Don't know,No,No,Yes
+19.0,Non-binary,No,Yes,Never,26-100,No,Yes,No,No,Don't know,Yes
+33.0,Male,No,No,Rarely,6-25,Yes,Yes,Yes,Yes,No,Maybe
+30.0,Male,No,No,Never,26-100,No,No,No,No,Don't know,Yes
+19.0,Non-binary,No,Yes,Rarely,1-5,No,Yes,Don't know,Yes,Yes,Maybe
+57.0,Male,Yes,No,Rarely,1-5,No,No,Don't know,No,No,No
+27.0,Female,No,Yes,Sometimes,26-100,Yes,No,No,Not sure,Yes,No
+33.0,Male,No,No,Rarely,100-500,Yes,No,Yes,Yes,Yes,Yes
+26.0,Female,No,No,Sometimes,26-100,Yes,Yes,No,Not sure,Yes,No
+48.0,Male,No,No,Rarely,500+,No,No,Don't know,Not sure,Don't know,No
+60.0,Non-binary,No,No,Rarely,1-5,No,Yes,Don't know,Not sure,No,Maybe
+25.0,Female,No,Yes,Rarely,26-100,Yes,Yes,No,Not sure,Yes,Maybe
+54.0,Female,No,Yes,Never,500+,Yes,Yes,No,No,Don't know,No
+31.0,Non-binary,No,Yes,Never,1-5,Yes,Yes,No,No,Yes,Yes
+47.0,Female,No,No,Never,100-500,Yes,No,Don't know,Not sure,Yes,Yes
+62.0,Female,No,No,Often,100-500,Yes,No,No,Not sure,Don't know,Maybe
+34.0,Female,Yes,No,Never,500+,Yes,Yes,Don't know,Not sure,Yes,No
+67.0,Non-binary,Yes,No,Often,26-100,Yes,No,No,No,Yes,No
+41.0,Female,Yes,No,Never,1-5,Yes,Yes,Don't know,No,Don't know,No
+28.0,Male,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Maybe
+56.0,Male,No,Yes,,500+,Yes,No,Don't know,Yes,No,Maybe
+56.0,Non-binary,No,Yes,Often,6-25,No,No,Yes,Yes,Yes,Maybe
+65.0,Male,No,No,Often,26-100,Yes,No,Don't know,Yes,No,Yes
+63.0,Male,No,No,Never,6-25,No,No,Yes,No,Don't know,Yes
+25.0,Female,Yes,Yes,Rarely,26-100,No,Yes,No,Yes,Yes,Yes
+67.0,Non-binary,No,No,Never,1-5,No,No,Don't know,Not sure,No,No
+28.0,Female,Yes,No,Often,500+,No,Yes,Yes,No,No,No
+37.0,Male,Yes,No,Often,1-5,Yes,Yes,Yes,Not sure,No,Maybe
+24.0,Non-binary,No,Yes,,6-25,Yes,No,Yes,No,Yes,No
+55.0,Non-binary,No,No,Sometimes,500+,Yes,No,Don't know,No,No,No
+19.0,Male,No,No,Rarely,1-5,No,Yes,No,Not sure,Yes,Yes
+37.0,Female,Yes,No,Never,1-5,No,Yes,No,Not sure,Don't know,Maybe
+54.0,Female,No,No,,1-5,No,Yes,Don't know,No,Don't know,Yes
+61.0,Female,Yes,No,Often,6-25,Yes,No,Don't know,Yes,Yes,No
+42.0,Female,No,No,Rarely,1-5,No,No,Don't know,No,Yes,Yes
+43.0,Non-binary,Yes,Yes,Often,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+63.0,Female,Yes,No,Often,26-100,No,No,Don't know,Yes,Don't know,No
+30.0,Female,Yes,No,Never,100-500,Yes,No,Yes,Yes,No,Maybe
+22.0,Non-binary,No,Yes,Rarely,6-25,No,No,Yes,Not sure,Don't know,No
+55.0,Female,Yes,No,Rarely,6-25,Yes,Yes,No,Yes,No,No
+62.0,Non-binary,Yes,No,Rarely,1-5,No,No,Don't know,Yes,Don't know,No
+58.0,Male,Yes,No,,500+,Yes,No,Yes,Yes,Don't know,Maybe
+33.0,Non-binary,Yes,Yes,Rarely,100-500,No,No,Yes,No,Yes,Yes
+24.0,Non-binary,No,No,Rarely,6-25,Yes,Yes,Yes,No,Don't know,Maybe
+62.0,Male,No,No,Often,26-100,Yes,No,No,Yes,Don't know,No
+67.0,Male,No,No,Often,6-25,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+37.0,Male,No,No,Often,100-500,Yes,No,No,No,Yes,Maybe
+61.0,Female,No,Yes,Rarely,26-100,Yes,Yes,Yes,Not sure,No,Maybe
+56.0,Female,No,No,Rarely,26-100,Yes,Yes,Yes,Yes,Don't know,No
+44.34791666666667,Male,No,Yes,Rarely,1-5,No,Yes,No,Yes,Don't know,Maybe
+25.0,Female,Yes,Yes,Never,500+,No,Yes,Yes,Yes,Don't know,Maybe
+68.0,Non-binary,No,No,Never,26-100,Yes,Yes,No,Yes,Yes,Yes
+54.0,Male,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,Yes
+44.34791666666667,Male,No,Yes,Never,500+,No,Yes,Don't know,No,Yes,Maybe
+20.0,Male,No,No,Never,1-5,Yes,No,Yes,Yes,Yes,Maybe
+40.0,Non-binary,Yes,No,Often,6-25,Yes,Yes,Don't know,No,No,No
+52.0,Female,No,Yes,Often,6-25,Yes,Yes,No,No,Yes,No
+45.0,Male,No,Yes,Often,500+,Yes,No,No,No,Don't know,Yes
+60.0,Male,Yes,No,Sometimes,1-5,No,Yes,Don't know,No,Don't know,Yes
+41.0,Non-binary,Yes,No,Rarely,100-500,No,Yes,Don't know,No,No,No
+22.0,Non-binary,No,No,Often,1-5,No,Yes,Don't know,No,Yes,Yes
+50.0,Female,Yes,Yes,Rarely,100-500,No,No,No,Not sure,No,No
+59.0,Male,No,Yes,Often,26-100,No,No,Don't know,Yes,Don't know,No
+39.0,Non-binary,No,No,,26-100,No,Yes,Don't know,No,Yes,Maybe
+18.0,Male,Yes,No,Often,26-100,No,Yes,Yes,Yes,Yes,Maybe
+44.0,Female,Yes,No,Rarely,1-5,No,Yes,Yes,Yes,No,Yes
+49.0,Male,No,No,Often,500+,Yes,Yes,Don't know,Yes,Don't know,Maybe
+24.0,Male,Yes,No,Rarely,100-500,No,Yes,No,No,No,Maybe
+45.0,Female,No,No,Never,1-5,No,No,No,No,Don't know,No
+41.0,Female,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Yes
+58.0,Non-binary,No,Yes,Never,6-25,Yes,Yes,Yes,Not sure,No,Maybe
+47.0,Female,No,Yes,Never,26-100,Yes,No,Don't know,No,Yes,Yes
+63.0,Female,No,No,Never,500+,No,No,Don't know,Yes,Yes,No
+27.0,Male,No,No,Rarely,26-100,No,No,No,Yes,No,Maybe
+45.0,Male,No,Yes,Often,500+,No,No,Yes,No,Don't know,No
+29.0,Non-binary,No,No,Rarely,6-25,Yes,No,Yes,No,No,Maybe
+64.0,Male,No,No,Often,100-500,No,No,Don't know,Yes,Yes,Yes
+51.0,Male,Yes,No,Rarely,26-100,Yes,No,Don't know,Yes,No,No
+59.0,Female,No,No,Sometimes,500+,No,Yes,Don't know,Not sure,Don't know,No
+35.0,Male,Yes,No,Often,100-500,No,No,Don't know,Yes,Don't know,Yes
+57.0,Male,Yes,No,Never,6-25,No,Yes,Yes,No,Yes,No
+69.0,Non-binary,No,No,Often,500+,No,Yes,Don't know,No,No,Yes
+52.0,Male,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No
+67.0,Male,Yes,Yes,Never,6-25,No,Yes,Don't know,Not sure,Don't know,No
+48.0,Male,Yes,No,Often,1-5,Yes,Yes,Yes,Yes,Don't know,No
+47.0,Female,Yes,No,Often,100-500,Yes,No,No,Yes,Yes,Yes

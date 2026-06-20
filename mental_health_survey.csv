@@ -1,0 +1,501 @@
+Timestamp,Age,Gender,Country,family_history,treatment,work_interfere,num_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help
+2024-01-21,63.0,Male,India,No,No,Often,6-25,Yes,Yes,Don't know,Yes,No,Yes
+2024-01-4,37.0,Female,United Kingdom,Yes,No,Rarely,26-100,Yes,Yes,Yes,Not sure,Don't know,Yes
+2024-01-1,57.0,Non-binary,Australia,No,No,,26-100,No,No,No,Yes,Yes,Maybe
+2024-01-24,69.0,Non-binary,Australia,No,No,Sometimes,26-100,Yes,No,Don't know,Yes,Don't know,No
+2024-01-9,59.0,Female,Canada,Yes,No,Sometimes,100-500,No,Yes,No,Yes,Don't know,Maybe
+2024-01-8,51.0,Male,Germany,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Yes,Maybe
+2024-01-8,18.0,Non-binary,Germany,Yes,Yes,Often,500+,No,No,Yes,No,No,Yes
+2024-01-5,60.0,Male,Germany,No,Yes,Never,100-500,No,No,No,No,No,Yes
+2024-01-24,53.0,Female,India,Yes,Yes,Never,26-100,Yes,No,No,Not sure,Don't know,Yes
+2024-01-4,37.0,Male,Australia,No,No,Often,100-500,Yes,No,No,No,No,Maybe
+2024-01-22,60.0,Female,India,No,No,Never,1-5,Yes,No,No,No,No,No
+2024-01-24,24.0,Female,Germany,Yes,Y,Rarely,100-500,No,No,Don't know,Not sure,Yes,No
+2024-01-29,,Male,Germany,No,Yes,Never,100-500,No,Yes,Yes,Yes,Don't know,No
+2024-01-18,34.0,Non-binary,United Kingdom,Yes,No,Never,26-100,Yes,Yes,No,Not sure,Don't know,No
+2024-01-3,25.0,Male,Australia,Yes,Yes,Never,1-5,Yes,No,Yes,Yes,Yes,Maybe
+2024-01-19,24.0,Male,Germany,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,Yes
+2024-01-14,65.0,Non-binary,United States,No,No,Rarely,1-5,Yes,No,Yes,Not sure,Don't know,Yes
+2024-01-2,53.0,Female,Other,No,No,Sometimes,1-5,Yes,No,Yes,Yes,Don't know,No
+2024-01-1,27.0,Male,Australia,No,Yes,,1-5,Yes,No,Don't know,Yes,Yes,Maybe
+2024-01-3,,Female,India,No,Yes,Never,26-100,No,Yes,No,Not sure,No,No
+2024-01-7,36.0,Non-binary,Australia,No,No,Often,1-5,No,Yes,Don't know,No,No,No
+2024-01-8,56.0,Non-binary,Canada,No,Yes,Often,6-25,No,No,No,Not sure,Don't know,Maybe
+2024-01-17,31.0,Non-binary,United States,Yes,Yes,,6-25,Yes,Yes,Don't know,Not sure,No,No
+2024-01-20,63.0,Non-binary,Germany,Yes,No,,500+,Yes,No,Yes,Not sure,Yes,Yes
+2024-01-1,39.0,Female,Canada,No,Yes,Rarely,6-25,Yes,Yes,No,No,No,Maybe
+2024-01-18,31.0,Non-binary,United Kingdom,No,No,Rarely,500+,No,No,Don't know,No,Yes,No
+2024-01-7,61.0,Female,Australia,Yes,No,Often,6-25,Yes,Yes,Don't know,No,Don't know,Yes
+2024-01-23,58.0,Male,Australia,No,No,Sometimes,26-100,Yes,No,Don't know,Yes,Yes,Maybe
+2024-01-21,34.0,Female,United Kingdom,Yes,Yes,Often,500+,No,Yes,No,Not sure,Yes,No
+2024-01-23,50.0,Female,Other,No,No,Often,100-500,Yes,Yes,Yes,Yes,Yes,No
+2024-01-18,49.0,Male,Canada,Yes,Yes,Often,100-500,Yes,No,Don't know,No,Don't know,Yes
+2024-01-14,34.0,Female,United States,No,Yes,Rarely,6-25,No,Yes,Don't know,No,No,Maybe
+2024-01-8,21.0,Male,Germany,Yes,No,Never,100-500,No,No,Yes,Not sure,No,No
+2024-01-15,23.0,Male,Canada,No,No,Sometimes,6-25,No,No,Yes,Yes,Yes,Yes
+2024-01-19,58.0,Female,India,No,No,Rarely,6-25,No,No,Yes,No,Yes,Yes
+2024-01-9,45.0,Female,Germany,No,No,Rarely,100-500,No,No,Yes,Yes,No,No
+2024-01-26,35.0,Male,Canada,No,Yes,Sometimes,100-500,No,No,Don't know,No,Don't know,No
+2024-01-28,20.0,Male,United States,No,No,Rarely,1-5,No,No,Don't know,Not sure,Yes,Maybe
+2024-01-1,18.0,Male,Australia,Yes,No,Never,500+,No,No,No,Yes,No,Yes
+2024-01-25,39.0,Male,Canada,No,Yes,Often,6-25,Yes,Yes,Don't know,Not sure,Yes,Yes
+2024-01-26,67.0,Male,United Kingdom,No,No,Never,100-500,Yes,No,Don't know,Yes,Yes,Maybe
+2024-01-6,26.0,Non-binary,United States,No,Yes,Rarely,500+,Yes,Yes,Yes,Not sure,Yes,No
+2024-01-23,58.0,Female,Other,No,No,Never,100-500,Yes,Yes,No,No,Don't know,Maybe
+2024-01-14,34.0,Male,Other,Yes,Yes,Often,100-500,Yes,No,Yes,No,Don't know,Maybe
+2024-01-11,28.0,Female,Australia,No,Yes,,1-5,Yes,Yes,Don't know,Yes,No,Maybe
+2024-01-9,65.0,Non-binary,United States,No,No,Rarely,6-25,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-5,46.0,Female,Germany,Yes,Yes,Sometimes,6-25,Yes,No,Don't know,No,Don't know,Maybe
+2024-01-7,,Non-binary,United Kingdom,No,No,Sometimes,26-100,No,No,No,Not sure,Yes,Yes
+2024-01-25,63.0,Male,Germany,No,No,Never,1-5,No,No,Yes,Not sure,No,No
+2024-01-11,45.0,Female,Germany,Yes,No,Never,500+,No,Yes,No,No,Yes,Yes
+2024-01-4,53.0,Female,,No,No,Never,1-5,No,Yes,Don't know,Not sure,Yes,Maybe
+2024-01-3,18.0,Non-binary,United States,No,No,Rarely,500+,Yes,Yes,Don't know,No,Yes,Yes
+2024-01-13,25.0,Male,United States,No,Y,Rarely,6-25,No,Yes,Yes,No,No,No
+2024-01-4,22.0,Female,Other,Yes,Yes,Rarely,26-100,Yes,No,Yes,Not sure,Yes,No
+2024-01-12,62.0,Non-binary,Canada,Yes,Yes,Never,26-100,No,No,Yes,No,Don't know,Maybe
+2024-01-28,27.0,Non-binary,United Kingdom,No,Yes,Never,6-25,No,No,Yes,Yes,Don't know,No
+2024-01-12,52.0,Male,United Kingdom,No,No,Rarely,100-500,No,Yes,Don't know,No,No,No
+2024-01-20,,Non-binary,Other,Yes,Yes,Rarely,1-5,No,No,No,No,Don't know,Maybe
+2024-01-9,41.0,Non-binary,India,No,No,Never,26-100,Yes,Yes,Yes,Not sure,Yes,Yes
+2024-01-26,55.0,Non-binary,United Kingdom,No,No,,100-500,Yes,Yes,Yes,No,Yes,Yes
+2024-01-2,53.0,Female,United States,No,N,Rarely,500+,Yes,No,Yes,Not sure,No,Maybe
+2024-01-24,27.0,Male,Other,No,No,Rarely,26-100,No,No,Don't know,Yes,Don't know,Yes
+2024-01-15,45.0,Female,Other,No,No,Rarely,500+,Yes,Yes,Don't know,No,Yes,Maybe
+2024-01-18,26.0,Non-binary,India,Yes,No,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-4,20.0,Male,United Kingdom,No,No,Never,500+,No,Yes,Don't know,No,Don't know,Maybe
+2024-01-30,37.0,Female,India,No,Yes,Rarely,100-500,Yes,Yes,No,Yes,Yes,Yes
+2024-01-13,41.0,Female,United Kingdom,No,No,Often,500+,Yes,No,Don't know,No,Yes,Yes
+2024-01-3,68.0,Female,Other,No,Yes,,1-5,Yes,No,Don't know,Not sure,No,No
+2024-01-18,20.0,Female,Other,Yes,No,Often,26-100,No,Yes,Yes,Yes,Yes,Maybe
+2024-01-10,40.0,Male,United Kingdom,No,No,Often,26-100,No,Yes,No,Not sure,No,Maybe
+2024-01-27,31.0,Non-binary,Canada,Yes,No,Often,100-500,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-21,61.0,Female,Other,No,Yes,Never,500+,No,No,Yes,Yes,Don't know,Yes
+2024-01-20,33.0,Female,United Kingdom,No,No,Never,6-25,No,Yes,No,No,No,No
+2024-01-29,60.0,Female,,No,Yes,Often,26-100,Yes,Yes,Yes,No,No,Yes
+2024-01-28,24.0,Non-binary,India,Yes,No,Never,500+,Yes,No,Yes,No,Don't know,Maybe
+2024-01-12,40.0,Male,United States,No,No,Rarely,500+,No,No,Don't know,Not sure,Yes,Maybe
+2024-01-19,67.0,Female,Canada,No,N,Often,1-5,No,No,Don't know,Not sure,Yes,Yes
+2024-01-7,53.0,Non-binary,Other,No,No,Never,6-25,Yes,No,No,Yes,Don't know,No
+2024-01-23,,Female,United Kingdom,No,No,Often,26-100,Yes,No,No,Not sure,No,Yes
+2024-01-3,57.0,Non-binary,United Kingdom,Yes,Yes,Never,1-5,No,No,No,No,No,Maybe
+2024-01-2,65.0,Female,India,No,No,Rarely,6-25,Yes,Yes,Yes,Yes,Don't know,Maybe
+2024-01-22,27.0,Non-binary,Canada,No,Yes,Never,26-100,Yes,Yes,Don't know,No,Yes,Maybe
+2024-01-8,33.0,Male,Other,No,Yes,Rarely,1-5,Yes,Yes,Don't know,Yes,No,Yes
+2024-01-25,28.0,Female,United Kingdom,No,Yes,Rarely,6-25,Yes,No,Yes,No,Yes,Yes
+2024-01-10,69.0,Female,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Not sure,No,No
+2024-01-3,69.0,Non-binary,Germany,Yes,No,Rarely,6-25,Yes,No,No,Not sure,Don't know,Yes
+2024-01-28,29.0,Male,Other,Yes,No,Rarely,500+,Yes,Yes,Don't know,No,No,Maybe
+2024-01-8,44.0,Male,United States,Yes,Yes,Often,100-500,Yes,Yes,Yes,Yes,Don't know,Yes
+2024-01-28,19.0,Female,United Kingdom,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,No,No
+2024-01-4,,Non-binary,United States,No,No,Often,500+,No,Yes,No,Yes,Don't know,No
+2024-01-13,65.0,Female,Canada,Yes,No,Never,6-25,Yes,Yes,No,No,Don't know,No
+2024-01-9,39.0,Male,Other,No,Yes,Sometimes,500+,No,No,No,No,No,No
+2024-01-15,68.0,Male,Other,No,No,Often,100-500,Yes,No,No,No,Yes,No
+2024-01-21,44.0,Male,United Kingdom,Yes,No,Often,100-500,Yes,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-27,69.0,Female,India,No,No,Rarely,6-25,Yes,Yes,Don't know,Not sure,Yes,Maybe
+2024-01-12,60.0,Non-binary,Canada,No,Yes,Rarely,100-500,Yes,No,No,No,Don't know,Maybe
+2024-01-6,65.0,Male,United States,No,No,Often,500+,No,No,Don't know,Yes,No,No
+2024-01-12,,Male,United Kingdom,No,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,Yes
+2024-01-12,33.0,Male,Canada,Yes,Y,Rarely,500+,Yes,Yes,Yes,Not sure,Don't know,Yes
+2024-01-7,35.0,Non-binary,United States,No,No,Never,6-25,No,Yes,Don't know,Yes,No,Yes
+2024-01-22,28.0,Female,United Kingdom,No,No,Often,100-500,Yes,No,Don't know,No,No,Yes
+2024-01-9,68.0,Male,Germany,No,No,Often,26-100,Yes,No,No,Not sure,Don't know,Yes
+2024-01-23,62.0,Non-binary,Australia,Yes,Y,Often,6-25,No,No,No,Yes,Don't know,Yes
+2024-01-30,,Male,India,Yes,No,Often,6-25,Yes,No,No,Yes,Yes,Maybe
+2024-01-22,42.0,Male,United States,No,Yes,Never,26-100,Yes,No,Yes,Not sure,Yes,Maybe
+2024-01-21,20.0,Male,Germany,Yes,No,,100-500,No,Yes,Yes,Yes,Don't know,No
+2024-01-3,48.0,Male,United States,No,Yes,Often,500+,No,No,No,No,Yes,Maybe
+2024-01-20,32.0,Male,Australia,No,Y,Often,1-5,No,No,Yes,Yes,No,Maybe
+2024-01-21,30.0,Male,Australia,Yes,Yes,Rarely,26-100,Yes,No,Yes,Yes,No,Maybe
+2024-01-6,47.0,Female,Other,No,No,Sometimes,1-5,No,Yes,Don't know,Yes,No,Yes
+2024-01-18,40.0,Male,Canada,No,Yes,Often,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-24,37.0,Female,India,No,No,Sometimes,6-25,Yes,No,Don't know,Not sure,No,Yes
+2024-01-8,68.0,Female,India,No,No,Often,6-25,No,Yes,No,No,No,Yes
+2024-01-6,32.0,Female,United States,No,No,Often,100-500,Yes,Yes,No,Yes,Yes,Maybe
+2024-01-15,32.0,Non-binary,Australia,Yes,No,Never,500+,Yes,Yes,No,Yes,Don't know,Yes
+2024-01-13,19.0,Male,India,Yes,No,Rarely,500+,No,Yes,Yes,Yes,Don't know,No
+2024-01-9,60.0,Female,United Kingdom,No,No,Rarely,100-500,No,Yes,Don't know,Yes,No,Yes
+2024-01-30,30.0,Male,India,No,No,Never,100-500,No,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-21,43.0,Female,United States,Yes,No,Never,100-500,Yes,Yes,No,Not sure,Yes,No
+2024-01-23,39.0,Male,Germany,No,Yes,Rarely,100-500,Yes,Yes,No,No,Yes,Yes
+2024-01-18,35.0,Female,Other,Yes,No,Often,100-500,Yes,No,No,Not sure,Don't know,Maybe
+2024-01-8,22.0,Female,Other,No,No,Often,100-500,No,Yes,No,Yes,No,Maybe
+2024-01-22,67.0,Female,Germany,Yes,No,Often,6-25,No,No,No,Not sure,Don't know,No
+2024-01-11,35.0,Female,India,No,No,Rarely,1-5,No,No,No,Yes,Yes,Maybe
+2024-01-27,40.0,Female,Canada,No,Yes,Rarely,500+,No,Yes,No,No,No,Maybe
+2024-01-25,59.0,Male,Australia,Yes,No,Rarely,1-5,Yes,Yes,Don't know,No,Don't know,No
+2024-01-25,50.0,Male,Germany,No,No,Often,6-25,Yes,Yes,Yes,Not sure,Yes,Yes
+2024-01-2,43.0,Male,United States,No,No,Often,26-100,No,Yes,Yes,No,Don't know,No
+2024-01-8,61.0,Non-binary,United States,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,No,Don't know,No
+2024-01-27,52.0,Female,Australia,Yes,No,Never,26-100,Yes,Yes,Don't know,Not sure,No,No
+2024-01-2,39.0,Male,Other,No,No,Sometimes,6-25,No,No,Yes,No,Yes,Yes
+2024-01-26,19.0,Non-binary,Australia,Yes,No,Sometimes,500+,Yes,No,No,No,Don't know,Yes
+2024-01-11,25.0,Female,Australia,No,Yes,Never,26-100,Yes,No,Yes,Yes,Don't know,Yes
+2024-01-13,34.0,Female,Germany,Yes,No,Never,6-25,Yes,Yes,Don't know,Not sure,No,Yes
+2024-01-9,29.0,Male,United States,Yes,Yes,Often,100-500,No,No,Yes,No,Don't know,Yes
+2024-01-3,55.0,Female,Australia,Yes,Yes,Sometimes,500+,No,No,No,No,Yes,No
+2024-01-7,34.0,Male,Germany,Yes,No,Never,100-500,No,Yes,Don't know,Yes,Don't know,Yes
+2024-01-30,20.0,Female,Australia,No,No,Never,500+,No,Yes,Don't know,Not sure,No,No
+2024-01-19,24.0,Female,United States,No,No,Often,500+,No,Yes,Yes,Yes,No,No
+2024-01-29,56.0,Non-binary,United States,No,N,Rarely,1-5,No,No,Don't know,Yes,No,Yes
+2024-01-23,45.0,Male,Canada,Yes,Yes,Rarely,500+,No,No,Yes,Not sure,Don't know,Maybe
+2024-01-11,40.0,Female,India,Yes,N,Rarely,1-5,No,Yes,Yes,No,No,Maybe
+2024-01-7,64.0,Female,United Kingdom,No,Yes,Sometimes,26-100,Yes,No,Don't know,No,Yes,Yes
+2024-01-21,68.0,Female,United States,No,No,Rarely,500+,Yes,Yes,Don't know,Not sure,Yes,Yes
+2024-01-16,38.0,Female,United Kingdom,Yes,Yes,Never,26-100,No,No,Yes,Yes,Don't know,Yes
+2024-01-13,45.0,Male,Canada,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,Yes
+2024-01-29,56.0,Female,India,Yes,N,Often,1-5,Yes,Yes,Don't know,No,Yes,No
+2024-01-30,50.0,Male,Germany,No,No,Rarely,100-500,No,No,No,No,Yes,Maybe
+2024-01-21,25.0,Male,India,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Yes,No
+2024-01-15,42.0,Male,India,No,No,Rarely,6-25,No,Yes,Yes,Yes,Yes,Maybe
+2024-01-5,54.0,Female,Germany,Yes,Yes,Never,100-500,No,No,Yes,No,Yes,No
+2024-01-9,30.0,Male,Canada,No,No,Often,1-5,Yes,Yes,Don't know,Yes,Yes,No
+2024-01-5,34.0,Non-binary,Australia,Yes,Yes,Often,6-25,Yes,Yes,No,Not sure,Yes,Yes
+2024-01-8,20.0,Male,India,No,Yes,Never,26-100,Yes,No,Don't know,Not sure,No,No
+2024-01-24,,Female,India,Yes,Yes,Never,1-5,Yes,Yes,Don't know,No,Yes,No
+2024-01-18,45.0,Non-binary,Canada,Yes,No,Never,100-500,Yes,No,No,No,Yes,Yes
+2024-01-18,18.0,Non-binary,Australia,No,No,Often,26-100,No,No,Don't know,Not sure,Yes,Maybe
+2024-01-9,51.0,Male,India,Yes,No,Never,26-100,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-24,69.0,Male,,Yes,No,Often,1-5,Yes,Yes,No,Yes,Don't know,No
+2024-01-19,52.0,Female,Australia,Yes,Y,,100-500,No,Yes,No,Not sure,No,Maybe
+2024-01-14,61.0,Non-binary,United States,No,No,Often,1-5,No,No,Yes,Yes,Don't know,No
+2024-01-29,64.0,Female,Other,No,Yes,Rarely,6-25,Yes,Yes,Don't know,No,No,No
+2024-01-19,65.0,Female,Germany,No,Yes,Rarely,6-25,Yes,No,Don't know,Not sure,Don't know,Maybe
+2024-01-13,65.0,Male,United States,No,N,Often,500+,Yes,No,No,Yes,Don't know,Maybe
+2024-01-12,60.0,Male,Other,No,Y,Never,26-100,No,Yes,Yes,No,Don't know,Maybe
+2024-01-8,30.0,Female,Germany,No,Yes,Never,500+,No,Yes,No,No,Don't know,Maybe
+2024-01-5,41.0,Female,Germany,Yes,No,Never,100-500,Yes,Yes,Don't know,Not sure,No,Maybe
+2024-01-17,45.0,Female,,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,Yes,Maybe
+2024-01-16,22.0,Non-binary,India,No,No,Never,500+,Yes,Yes,Yes,Yes,No,Maybe
+2024-01-3,60.0,Female,Germany,No,No,Sometimes,6-25,Yes,No,No,Not sure,Yes,Maybe
+2024-01-25,39.0,Male,Other,No,No,,6-25,No,Yes,No,No,Don't know,Yes
+2024-01-2,57.0,Male,United Kingdom,Yes,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-28,38.0,Female,Australia,Yes,Yes,Often,1-5,Yes,Yes,Yes,No,Yes,Yes
+2024-01-4,60.0,Non-binary,Australia,No,No,Often,500+,No,Yes,Don't know,No,Yes,No
+2024-01-5,25.0,Female,,Yes,Yes,Often,26-100,Yes,No,Yes,Not sure,Yes,No
+2024-01-21,64.0,Female,Australia,No,No,Rarely,500+,Yes,Yes,Don't know,No,Don't know,Yes
+2024-01-6,37.0,Non-binary,Canada,Yes,Yes,Rarely,26-100,Yes,No,Don't know,No,No,Yes
+2024-01-26,50.0,Male,Other,Yes,No,Never,500+,Yes,No,Yes,Yes,Yes,Maybe
+2024-01-22,37.0,Male,Australia,Yes,No,Rarely,500+,Yes,No,Don't know,No,No,Maybe
+2024-01-14,60.0,Male,Australia,Yes,No,Often,6-25,Yes,No,Yes,No,Don't know,No
+2024-01-20,44.0,Non-binary,Australia,No,No,Never,26-100,No,Yes,No,Yes,Yes,Maybe
+2024-01-3,38.0,Male,Germany,No,Yes,Sometimes,26-100,Yes,Yes,Yes,No,No,Yes
+2024-01-13,43.0,Non-binary,United States,Yes,No,Often,26-100,No,Yes,Yes,Not sure,Don't know,Maybe
+2024-01-13,62.0,Female,Canada,No,No,Often,500+,Yes,Yes,Don't know,No,Don't know,No
+2024-01-20,36.0,Female,Australia,No,No,Rarely,26-100,Yes,No,Don't know,No,No,Maybe
+2024-01-15,53.0,Male,Canada,No,Yes,Sometimes,500+,No,No,Don't know,No,No,Maybe
+2024-01-17,26.0,Male,Germany,No,Yes,Often,1-5,Yes,No,Yes,No,Don't know,Yes
+2024-01-9,30.0,Male,Canada,No,No,Often,6-25,No,No,Don't know,No,Yes,Yes
+2024-01-18,44.0,Female,Canada,Yes,Yes,Rarely,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+2024-01-28,60.0,Male,United Kingdom,Yes,No,Often,1-5,Yes,Yes,No,Not sure,No,No
+2024-01-1,42.0,Male,Germany,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,Don't know,No
+2024-01-22,,Non-binary,Australia,No,No,Never,6-25,Yes,Yes,Yes,Not sure,Yes,No
+2024-01-24,65.0,Female,United States,No,Yes,Sometimes,6-25,Yes,Yes,Yes,Not sure,Don't know,No
+2024-01-4,29.0,Non-binary,United States,No,No,Often,6-25,No,Yes,No,Yes,Yes,No
+2024-01-22,57.0,Male,Other,Yes,No,Rarely,6-25,Yes,No,Yes,Yes,No,Yes
+2024-01-29,54.0,Male,United States,No,No,Often,26-100,No,No,Yes,Not sure,Yes,No
+2024-01-18,37.0,Female,United States,Yes,No,Rarely,6-25,No,No,No,No,Yes,No
+2024-01-25,43.0,Female,Australia,No,No,Never,100-500,Yes,No,No,Yes,Don't know,Maybe
+2024-01-9,53.0,Female,United States,No,No,,100-500,No,Yes,Yes,Not sure,Yes,Yes
+2024-01-25,18.0,Male,Germany,Yes,Yes,Rarely,6-25,No,No,Yes,No,Yes,Maybe
+2024-01-21,37.0,Non-binary,Germany,No,Yes,Never,500+,No,No,Don't know,No,Don't know,Maybe
+2024-01-11,36.0,Female,Canada,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes
+2024-01-4,31.0,Male,Other,No,Yes,Often,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+2024-01-10,45.0,Female,United Kingdom,No,Yes,Sometimes,100-500,No,No,No,Not sure,No,Maybe
+2024-01-14,68.0,Male,India,No,No,Rarely,100-500,No,No,No,Yes,Yes,No
+2024-01-6,55.0,Female,United States,Yes,No,Often,1-5,No,No,No,No,Yes,Yes
+2024-01-15,56.0,Male,India,Yes,No,Rarely,1-5,Yes,No,No,Yes,Don't know,Maybe
+2024-01-1,59.0,Non-binary,India,Yes,Yes,Often,100-500,No,No,Yes,Yes,Don't know,Maybe
+2024-01-24,38.0,Female,India,Yes,No,Never,500+,Yes,No,Yes,No,Yes,Yes
+2024-01-29,47.0,Female,Canada,Yes,No,Never,26-100,Yes,No,Don't know,No,Don't know,Yes
+2024-01-24,46.0,Male,Germany,No,No,Never,26-100,No,Yes,No,Yes,Don't know,Maybe
+2024-01-9,46.0,Male,United States,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure,Yes,Maybe
+2024-01-17,61.0,Male,Australia,Yes,No,Often,100-500,No,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-25,31.0,Male,Canada,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure,Don't know,Yes
+2024-01-6,50.0,Non-binary,Other,Yes,No,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,No
+2024-01-17,48.0,Male,Germany,No,Yes,Never,1-5,Yes,Yes,No,No,No,No
+2024-01-30,68.0,Non-binary,Other,No,Yes,Rarely,1-5,No,No,Don't know,No,Don't know,No
+2024-01-4,68.0,Non-binary,Australia,Yes,Yes,Rarely,100-500,Yes,No,No,No,Yes,No
+2024-01-28,65.0,Male,Other,No,Yes,Never,26-100,Yes,No,Don't know,No,Don't know,Yes
+2024-01-21,28.0,Female,Germany,No,No,Rarely,1-5,No,Yes,Don't know,Not sure,Don't know,Yes
+2024-01-10,60.0,Non-binary,United States,No,No,Rarely,500+,Yes,No,Don't know,Not sure,No,No
+2024-01-27,23.0,Male,Canada,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-21,36.0,Male,India,No,Yes,Often,6-25,No,Yes,No,No,No,Maybe
+2024-01-17,50.0,Non-binary,Canada,No,Yes,Rarely,100-500,Yes,Yes,Don't know,Yes,Don't know,Yes
+2024-01-20,60.0,Male,Canada,No,No,Sometimes,6-25,No,No,No,Not sure,Don't know,No
+2024-01-7,58.0,Female,United States,No,N,Often,100-500,Yes,No,No,Yes,No,Yes
+2024-01-5,57.0,Male,India,Yes,No,Often,26-100,Yes,Yes,Don't know,Yes,Yes,No
+2024-01-12,,Male,India,Yes,No,Never,26-100,No,No,Don't know,Yes,Yes,No
+2024-01-25,23.0,Male,United Kingdom,No,No,Rarely,26-100,No,No,Yes,No,Yes,Maybe
+2024-01-6,66.0,Non-binary,United Kingdom,No,No,Never,26-100,Yes,Yes,Don't know,No,Don't know,Maybe
+2024-01-18,33.0,Non-binary,Germany,Yes,No,Often,500+,Yes,Yes,No,Not sure,No,Maybe
+2024-01-25,61.0,Non-binary,Australia,Yes,Yes,Sometimes,500+,No,No,No,Yes,Don't know,Yes
+2024-01-30,37.0,Male,United Kingdom,Yes,No,Often,6-25,No,No,Yes,No,No,Maybe
+2024-01-17,32.0,Male,Other,No,Yes,Never,500+,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-30,69.0,Female,United States,No,Yes,Often,100-500,No,Yes,No,No,Yes,Yes
+2024-01-1,30.0,Male,Canada,Yes,No,,26-100,Yes,No,No,No,Don't know,Yes
+2024-01-20,27.0,Female,Other,No,No,Never,1-5,Yes,Yes,No,No,Don't know,Yes
+2024-01-11,19.0,Male,India,Yes,Yes,Never,1-5,Yes,No,No,No,No,Maybe
+2024-01-16,20.0,Male,Canada,No,No,Sometimes,1-5,No,Yes,No,Not sure,No,No
+2024-01-1,33.0,Male,United States,No,Yes,,100-500,No,No,Don't know,Not sure,No,Maybe
+2024-01-4,48.0,Female,Other,No,Yes,Rarely,1-5,Yes,No,Yes,No,Don't know,No
+2024-01-30,57.0,Female,Canada,Yes,Yes,Sometimes,1-5,Yes,No,Don't know,No,No,Yes
+2024-01-12,67.0,Non-binary,India,No,No,Never,6-25,Yes,Yes,Yes,Yes,No,Maybe
+2024-01-29,22.0,Female,United Kingdom,Yes,No,Never,100-500,No,Yes,No,No,No,Maybe
+2024-01-27,47.0,Male,Other,No,No,Never,100-500,No,Yes,Yes,Yes,Don't know,No
+2024-01-26,44.0,Male,Australia,Yes,No,Rarely,1-5,No,Yes,Yes,No,No,Maybe
+2024-01-10,58.0,Male,Other,No,No,Sometimes,100-500,Yes,No,Yes,Not sure,Don't know,Maybe
+2024-01-8,,Female,,No,No,Often,6-25,No,No,Don't know,Not sure,No,Maybe
+2024-01-2,30.0,Non-binary,Other,No,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Yes
+2024-01-8,63.0,Female,Other,Yes,Yes,Never,26-100,No,Yes,No,Not sure,Yes,No
+2024-01-29,62.0,Female,India,No,Yes,Rarely,6-25,No,No,Yes,Not sure,Don't know,Maybe
+2024-01-19,42.0,Non-binary,India,No,No,Rarely,26-100,No,No,Yes,Not sure,Don't know,No
+2024-01-3,49.0,Male,Germany,Yes,Yes,Often,1-5,Yes,Yes,Yes,Not sure,Yes,Yes
+2024-01-3,43.0,Male,Germany,No,No,Rarely,26-100,No,No,Yes,Not sure,No,Yes
+2024-01-24,33.0,Male,India,Yes,No,Never,26-100,Yes,No,No,Yes,Don't know,No
+2024-01-16,27.0,Male,United States,Yes,No,Often,1-5,Yes,Yes,Don't know,No,Don't know,Maybe
+2024-01-27,,Female,India,Yes,Yes,Never,26-100,No,Yes,Don't know,No,No,Maybe
+2024-01-3,62.0,Female,Germany,Yes,No,Often,6-25,Yes,No,Yes,No,No,Yes
+2024-01-25,18.0,Female,Other,No,Yes,Sometimes,1-5,Yes,No,Don't know,Not sure,No,Yes
+2024-01-18,,Non-binary,Germany,No,Yes,Never,100-500,No,Yes,Yes,Not sure,No,Yes
+2024-01-25,67.0,Female,Canada,Yes,No,Rarely,26-100,Yes,Yes,No,No,No,Yes
+2024-01-5,24.0,Male,United States,Yes,No,Rarely,6-25,No,No,No,Not sure,Yes,Maybe
+2024-01-5,67.0,Female,United Kingdom,No,No,Often,100-500,No,No,Don't know,No,Don't know,Yes
+2024-01-22,45.0,Male,Canada,No,Yes,Often,1-5,Yes,No,Yes,Yes,Yes,No
+2024-01-16,32.0,Male,Germany,No,Yes,,1-5,Yes,Yes,No,No,No,No
+2024-01-18,29.0,Female,Other,Yes,Yes,Rarely,1-5,No,No,Don't know,Not sure,Don't know,No
+2024-01-6,69.0,Male,Canada,Yes,Y,Never,6-25,Yes,No,No,No,Yes,Maybe
+2024-01-9,62.0,Male,Canada,Yes,No,,100-500,No,No,No,No,Don't know,No
+2024-01-17,,Male,,Yes,Yes,Never,1-5,Yes,Yes,Yes,Not sure,Yes,No
+2024-01-28,47.0,Female,United States,No,Yes,Rarely,6-25,Yes,No,Don't know,Yes,No,Maybe
+2024-01-20,21.0,Male,United Kingdom,No,Yes,Rarely,500+,Yes,Yes,Yes,Yes,Yes,Yes
+2024-01-14,53.0,Non-binary,Other,No,No,Rarely,6-25,No,Yes,Don't know,Not sure,No,Yes
+2024-01-7,33.0,Female,United Kingdom,No,N,Never,500+,No,No,No,No,Yes,Yes
+2024-01-30,25.0,Non-binary,India,No,Yes,Sometimes,100-500,Yes,No,Yes,No,Yes,Yes
+2024-01-18,47.0,Male,Germany,Yes,No,Sometimes,1-5,No,Yes,Yes,Not sure,No,Yes
+2024-01-25,26.0,Male,Australia,Yes,Yes,Often,1-5,Yes,Yes,Yes,Not sure,Yes,Maybe
+2024-01-24,69.0,Male,United States,No,No,Often,26-100,No,Yes,Yes,Not sure,Don't know,No
+2024-01-23,47.0,Female,United Kingdom,No,No,Often,1-5,Yes,No,Don't know,No,No,Yes
+2024-01-7,60.0,Male,Germany,No,No,Sometimes,100-500,Yes,Yes,Don't know,Yes,Don't know,No
+2024-01-23,51.0,Female,Germany,Yes,Yes,Never,6-25,Yes,No,Yes,Yes,Don't know,No
+2024-01-10,53.0,Female,United States,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Don't know,No
+2024-01-13,56.0,Male,United States,Yes,Yes,Never,1-5,Yes,No,Don't know,No,Don't know,Maybe
+2024-01-22,38.0,Female,Germany,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,Don't know,Yes
+2024-01-21,66.0,Female,India,Yes,No,Often,100-500,No,Yes,Yes,No,Yes,Maybe
+2024-01-12,46.0,Female,United Kingdom,No,No,Rarely,1-5,No,No,Don't know,No,Yes,No
+2024-01-15,57.0,Female,Australia,Yes,No,Often,1-5,No,No,Yes,Not sure,Yes,Yes
+2024-01-29,64.0,Male,Australia,Yes,No,Rarely,1-5,No,No,Yes,No,No,Yes
+2024-01-17,50.0,Non-binary,Australia,No,No,Never,26-100,Yes,No,Yes,Not sure,No,Maybe
+2024-01-15,45.0,Male,Canada,No,No,Never,26-100,Yes,No,No,No,Yes,Maybe
+2024-01-4,53.0,Non-binary,United Kingdom,Yes,No,Often,26-100,Yes,Yes,Yes,Not sure,Yes,No
+2024-01-8,46.0,Female,Canada,No,No,Often,6-25,No,Yes,Don't know,Not sure,No,No
+2024-01-8,28.0,Non-binary,Canada,Yes,Yes,Often,100-500,No,Yes,No,No,No,No
+2024-01-3,65.0,Male,Germany,Yes,No,Never,6-25,Yes,Yes,Don't know,No,Don't know,No
+2024-01-11,48.0,Non-binary,Canada,Yes,No,Often,6-25,Yes,No,Don't know,No,Yes,Yes
+2024-01-1,46.0,Non-binary,Other,No,No,Often,1-5,No,No,Don't know,No,Yes,Maybe
+2024-01-19,34.0,Female,India,No,Y,Often,500+,Yes,No,Yes,Not sure,No,Maybe
+2024-01-18,66.0,Female,India,No,No,Sometimes,500+,No,No,Don't know,Not sure,No,Yes
+2024-01-8,33.0,Male,United States,Yes,No,Often,1-5,Yes,Yes,Don't know,Not sure,Yes,Yes
+2024-01-19,58.0,Female,United States,No,No,Often,500+,No,Yes,Don't know,No,Don't know,Maybe
+2024-01-8,35.0,Male,United Kingdom,No,Yes,Often,6-25,No,Yes,No,No,No,No
+2024-01-1,67.0,Female,United Kingdom,Yes,No,Often,100-500,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-3,67.0,Male,Other,Yes,No,Never,26-100,Yes,Yes,Yes,Yes,Yes,Maybe
+2024-01-23,51.0,Non-binary,India,No,No,Sometimes,6-25,Yes,No,No,Yes,Don't know,Maybe
+2024-01-21,49.0,Non-binary,United States,Yes,Yes,Never,6-25,Yes,Yes,Don't know,Yes,Yes,Yes
+2024-01-2,58.0,Female,Germany,No,Yes,,100-500,Yes,No,No,Not sure,Don't know,Yes
+2024-01-8,33.0,Female,United States,No,No,Often,500+,No,Yes,No,Yes,No,Yes
+2024-01-3,35.0,Male,Canada,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Not sure,No,Yes
+2024-01-29,46.0,Male,Australia,Yes,Yes,Never,6-25,No,Yes,Yes,No,Yes,Yes
+2024-01-2,22.0,Non-binary,Germany,No,No,Never,1-5,Yes,No,No,Not sure,No,Maybe
+2024-01-28,63.0,Female,Australia,Yes,No,Never,1-5,No,Yes,Don't know,Not sure,Don't know,No
+2024-01-11,36.0,Female,Australia,No,No,Often,6-25,No,No,Yes,Not sure,Don't know,Yes
+2024-01-3,33.0,Female,India,No,No,Rarely,1-5,No,Yes,Don't know,Yes,Don't know,Yes
+2024-01-17,35.0,Male,Australia,Yes,No,Often,500+,No,No,Yes,Yes,Yes,Yes
+2024-01-8,39.0,Female,Australia,No,No,Rarely,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-9,38.0,Male,Canada,No,No,Often,26-100,Yes,No,Don't know,No,Don't know,Maybe
+2024-01-22,52.0,Male,United Kingdom,Yes,Yes,Often,100-500,No,Yes,Don't know,Yes,No,Maybe
+2024-01-16,23.0,Non-binary,Other,Yes,No,Rarely,26-100,Yes,Yes,No,Yes,Yes,No
+2024-01-7,26.0,Male,India,No,No,Rarely,6-25,No,No,Yes,Yes,Don't know,No
+2024-01-18,27.0,Male,United States,No,Yes,Never,6-25,No,No,Don't know,No,Don't know,Yes
+2024-01-5,32.0,Male,Canada,No,No,Rarely,26-100,No,Yes,Don't know,Not sure,No,Yes
+2024-01-24,42.0,Female,Australia,No,No,Rarely,1-5,Yes,No,No,Yes,Yes,Yes
+2024-01-30,62.0,Male,United States,Yes,No,Sometimes,6-25,No,Yes,No,Yes,Yes,No
+2024-01-29,27.0,Male,Canada,No,Yes,Sometimes,500+,Yes,Yes,Don't know,No,No,Yes
+2024-01-19,63.0,Female,Germany,No,No,Sometimes,500+,No,No,Don't know,Not sure,No,Yes
+2024-01-19,31.0,Female,Germany,No,No,Never,500+,No,No,Yes,Yes,No,Maybe
+2024-01-16,22.0,Female,India,Yes,Yes,Rarely,500+,No,Yes,Yes,Yes,No,No
+2024-01-8,44.0,Non-binary,Australia,Yes,No,Often,26-100,No,Yes,No,No,Yes,Maybe
+2024-01-26,44.0,Male,India,No,Y,Rarely,1-5,Yes,Yes,No,Not sure,Yes,Maybe
+2024-01-16,39.0,Male,Germany,Yes,No,Never,26-100,No,Yes,Yes,Yes,Don't know,Maybe
+2024-01-26,52.0,Male,Canada,No,No,Sometimes,6-25,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-14,47.0,Female,United States,Yes,No,Never,500+,Yes,No,Yes,Not sure,Don't know,Maybe
+2024-01-7,44.0,Male,United Kingdom,No,No,Sometimes,500+,Yes,No,Yes,No,Yes,Maybe
+2024-01-4,21.0,Male,Australia,Yes,Yes,Never,500+,Yes,No,Don't know,No,Don't know,Maybe
+2024-01-4,31.0,Female,India,No,No,Never,6-25,No,Yes,Don't know,Yes,Don't know,Yes
+2024-01-22,44.0,Male,United States,No,No,Often,100-500,No,No,Don't know,Yes,No,No
+2024-01-14,42.0,Female,United States,Yes,Yes,Sometimes,26-100,Yes,No,No,Not sure,Yes,Maybe
+2024-01-12,67.0,Male,United Kingdom,No,Yes,Sometimes,1-5,Yes,No,Yes,No,No,Maybe
+2024-01-14,55.0,Male,Canada,No,Y,Rarely,6-25,No,No,Don't know,No,Don't know,No
+2024-01-14,62.0,Non-binary,United Kingdom,No,Yes,Rarely,100-500,No,No,Yes,Not sure,Yes,Yes
+2024-01-15,19.0,Non-binary,Other,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No,Yes
+2024-01-28,66.0,Female,United Kingdom,No,No,Never,1-5,Yes,Yes,No,Yes,Don't know,No
+2024-01-24,54.0,Male,Other,Yes,No,Often,6-25,No,No,Don't know,Not sure,Don't know,No
+2024-01-2,42.0,Male,Canada,No,Yes,Often,100-500,No,No,Don't know,Yes,Yes,No
+2024-01-22,48.0,Non-binary,Canada,Yes,N,Rarely,500+,Yes,No,Yes,Yes,No,No
+2024-01-21,18.0,Female,Canada,Yes,No,Never,1-5,No,Yes,Don't know,Yes,Don't know,Yes
+2024-01-21,40.0,Male,United States,No,Yes,Often,500+,Yes,Yes,Don't know,Not sure,Don't know,No
+2024-01-4,37.0,Non-binary,United States,Yes,Yes,,1-5,Yes,Yes,Yes,No,Yes,Maybe
+2024-01-2,66.0,Male,Australia,Yes,No,Sometimes,26-100,Yes,No,Yes,No,Yes,Yes
+2024-01-13,42.0,Female,Germany,No,Yes,Often,26-100,No,No,No,No,Yes,No
+2024-01-24,44.0,Male,Australia,No,Yes,Never,6-25,Yes,Yes,Don't know,No,Don't know,No
+2024-01-11,52.0,Female,United Kingdom,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Not sure,Don't know,Yes
+2024-01-26,65.0,Male,United Kingdom,No,Yes,,500+,Yes,No,Don't know,No,No,Yes
+2024-01-28,65.0,Female,Australia,No,Yes,Often,100-500,Yes,Yes,Don't know,Not sure,No,Maybe
+2024-01-4,52.0,Non-binary,India,No,No,Never,26-100,Yes,No,Yes,No,Don't know,No
+2024-01-8,69.0,Female,Germany,No,No,Never,500+,Yes,No,Don't know,Yes,Don't know,No
+2024-01-7,56.0,Male,United Kingdom,No,No,Never,6-25,No,No,Don't know,Not sure,Don't know,Maybe
+2024-01-7,32.0,Male,India,No,No,Sometimes,100-500,Yes,No,No,Not sure,Yes,No
+2024-01-18,49.0,Male,India,No,Yes,Never,1-5,No,No,Don't know,Yes,Yes,Maybe
+2024-01-15,32.0,Male,Other,No,No,Sometimes,1-5,Yes,Yes,No,Not sure,No,Yes
+2024-01-5,35.0,Male,Germany,No,No,Never,500+,Yes,Yes,No,Not sure,No,Maybe
+2024-01-14,45.0,Female,Other,Yes,No,Never,1-5,No,Yes,Yes,No,No,Yes
+2024-01-6,49.0,Non-binary,Canada,No,No,Never,1-5,No,No,Don't know,Not sure,Yes,Maybe
+2024-01-9,19.0,Male,United States,No,Yes,Never,26-100,Yes,Yes,Don't know,Not sure,Yes,Yes
+2024-01-15,42.0,Male,Australia,No,No,Rarely,6-25,Yes,Yes,No,Not sure,No,Yes
+2024-01-8,39.0,Non-binary,Other,Yes,No,Often,1-5,No,Yes,Yes,Not sure,Yes,Maybe
+2024-01-28,60.0,Male,Germany,Yes,Yes,,1-5,No,Yes,No,No,No,Maybe
+2024-01-30,61.0,Non-binary,United States,No,Yes,Sometimes,100-500,No,No,No,Not sure,Don't know,Maybe
+2024-01-3,69.0,Non-binary,Australia,No,No,Sometimes,500+,No,Yes,No,Not sure,Don't know,Maybe
+2024-01-15,43.0,Non-binary,United States,No,No,Often,26-100,No,No,Don't know,Not sure,Yes,Yes
+2024-01-26,64.0,Male,Australia,No,No,Rarely,500+,Yes,No,Don't know,Not sure,Don't know,No
+2024-01-28,28.0,Female,United States,Yes,No,,100-500,No,Yes,Don't know,No,No,Maybe
+2024-01-28,47.0,Female,Other,No,No,Never,100-500,Yes,Yes,Don't know,No,No,Maybe
+2024-01-18,26.0,Female,Canada,No,No,Sometimes,100-500,No,No,Yes,No,Yes,Maybe
+2024-01-4,57.0,Male,India,No,Yes,Rarely,1-5,Yes,Yes,No,Not sure,No,Maybe
+2024-01-2,52.0,Female,Australia,Yes,Yes,Never,500+,Yes,Yes,Yes,Yes,Don't know,No
+2024-01-21,19.0,Female,,Yes,Yes,Sometimes,500+,Yes,No,No,Yes,No,No
+2024-01-18,43.0,Female,Australia,No,No,Sometimes,500+,Yes,No,No,No,Don't know,Maybe
+2024-01-27,55.0,Female,Germany,Yes,No,Rarely,6-25,Yes,Yes,Yes,No,Yes,No
+2024-01-1,54.0,Male,Germany,Yes,No,Rarely,26-100,No,Yes,Yes,No,Yes,No
+2024-01-3,60.0,Female,Australia,No,No,Rarely,1-5,No,No,No,No,No,Maybe
+2024-01-30,19.0,Male,Canada,Yes,No,Never,26-100,No,Yes,Don't know,No,Don't know,Maybe
+2024-01-25,23.0,Female,United States,Yes,Y,Often,1-5,No,No,Don't know,Yes,Yes,Maybe
+2024-01-28,59.0,Female,Australia,No,No,Never,500+,No,Yes,No,No,No,No
+2024-01-8,45.0,Male,United States,Yes,No,Rarely,6-25,No,No,No,Yes,No,Yes
+2024-01-6,26.0,Female,Canada,No,Yes,Sometimes,6-25,No,No,Yes,Yes,Don't know,Maybe
+2024-01-14,47.0,Female,United Kingdom,No,No,Never,500+,Yes,No,Yes,Not sure,Don't know,Maybe
+2024-01-16,29.0,Female,Other,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Yes,Yes,No
+2024-01-16,21.0,Male,India,Yes,No,Never,100-500,No,Yes,Don't know,No,Don't know,Maybe
+2024-01-7,34.0,Non-binary,Australia,Yes,Y,Never,500+,No,Yes,Yes,No,Don't know,Maybe
+2024-01-28,42.0,Male,Other,No,Yes,Never,1-5,Yes,No,Don't know,No,Don't know,Maybe
+2024-01-13,38.0,Non-binary,Germany,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure,Don't know,No
+2024-01-29,31.0,Male,Canada,No,No,Often,100-500,Yes,No,Yes,Yes,Yes,No
+2024-01-2,47.0,Male,United States,No,Y,Often,6-25,No,Yes,Don't know,Not sure,Yes,Yes
+2024-01-6,38.0,Non-binary,,No,No,Rarely,1-5,No,No,Yes,No,Yes,Maybe
+2024-01-13,39.0,Female,Other,No,No,Often,6-25,Yes,Yes,No,No,No,Yes
+2024-01-1,66.0,Female,United States,No,N,Often,1-5,Yes,Yes,Don't know,No,No,Maybe
+2024-01-13,42.0,Male,United Kingdom,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,No,No
+2024-01-9,35.0,Male,,No,No,Rarely,1-5,No,No,Don't know,No,Don't know,Yes
+2024-01-30,,Non-binary,India,Yes,Yes,Never,100-500,No,Yes,No,No,Don't know,Yes
+2024-01-26,44.0,Female,Australia,Yes,No,Often,500+,Yes,Yes,No,Not sure,Yes,Yes
+2024-01-26,34.0,Non-binary,India,No,No,Often,500+,No,Yes,No,Yes,Yes,Yes
+2024-01-15,,Male,United States,No,Yes,Rarely,1-5,No,Yes,Yes,Yes,Don't know,No
+2024-01-10,48.0,Non-binary,Australia,No,No,Never,26-100,No,Yes,Yes,Not sure,No,Maybe
+2024-01-14,19.0,Male,Other,No,Yes,Rarely,6-25,No,No,No,No,No,Yes
+2024-01-23,65.0,Non-binary,Canada,No,No,Rarely,1-5,No,Yes,Don't know,Yes,No,Maybe
+2024-01-24,52.0,Female,Germany,No,No,Never,1-5,Yes,No,Don't know,No,No,Yes
+2024-01-26,21.0,Male,Canada,No,No,Never,6-25,Yes,No,No,Not sure,Yes,Maybe
+2024-01-18,40.0,Male,United Kingdom,No,No,Sometimes,1-5,Yes,No,No,No,No,No
+2024-01-22,32.0,Male,Canada,No,No,Never,6-25,No,Yes,Don't know,No,No,No
+2024-01-23,,Female,Other,No,Yes,Rarely,100-500,No,Yes,No,Yes,Don't know,Yes
+2024-01-16,22.0,Male,United Kingdom,Yes,No,Often,26-100,No,No,Don't know,Yes,Don't know,No
+2024-01-5,67.0,Female,United States,No,No,Never,500+,No,Yes,No,Not sure,Yes,No
+2024-01-7,59.0,Non-binary,India,No,Yes,Never,500+,No,No,Don't know,Not sure,No,Maybe
+2024-01-10,20.0,Female,Germany,No,No,Never,26-100,Yes,No,No,Not sure,Yes,Maybe
+2024-01-7,66.0,Non-binary,United States,No,No,Never,6-25,Yes,Yes,Don't know,No,No,Yes
+2024-01-2,19.0,Non-binary,India,No,Yes,Never,26-100,No,Yes,No,No,Don't know,Yes
+2024-01-19,33.0,Male,India,No,No,Rarely,6-25,Yes,Yes,Yes,Yes,No,Maybe
+2024-01-24,30.0,Male,United Kingdom,No,No,Never,26-100,No,No,No,No,Don't know,Yes
+2024-01-18,19.0,Non-binary,Other,No,Yes,Rarely,1-5,No,Yes,Don't know,Yes,Yes,Maybe
+2024-01-2,57.0,Male,Canada,Yes,No,Rarely,1-5,No,No,Don't know,No,No,No
+2024-01-24,27.0,Female,,No,Yes,Sometimes,26-100,Yes,No,No,Not sure,Yes,No
+2024-01-11,33.0,Male,Germany,No,No,Rarely,100-500,Yes,No,Yes,Yes,Yes,Yes
+2024-01-2,26.0,Female,Other,No,No,Sometimes,26-100,Yes,Yes,No,Not sure,Yes,No
+2024-01-2,48.0,Male,Germany,No,No,Rarely,500+,No,No,Don't know,Not sure,Don't know,No
+2024-01-19,60.0,Non-binary,Other,No,No,Rarely,1-5,No,Yes,Don't know,Not sure,No,Maybe
+2024-01-16,25.0,Female,United Kingdom,No,Yes,Rarely,26-100,Yes,Yes,No,Not sure,Yes,Maybe
+2024-01-17,54.0,Female,United Kingdom,No,Yes,Never,500+,Yes,Yes,No,No,Don't know,No
+2024-01-30,31.0,Non-binary,United States,No,Yes,Never,1-5,Yes,Yes,No,No,Yes,Yes
+2024-01-28,47.0,Female,United Kingdom,No,No,Never,100-500,Yes,No,Don't know,Not sure,Yes,Yes
+2024-01-17,62.0,Female,Canada,No,No,Often,100-500,Yes,No,No,Not sure,Don't know,Maybe
+2024-01-6,34.0,Female,United Kingdom,Yes,No,Never,500+,Yes,Yes,Don't know,Not sure,Yes,No
+2024-01-2,67.0,Non-binary,United Kingdom,Yes,No,Often,26-100,Yes,No,No,No,Yes,No
+2024-01-17,41.0,Female,India,Yes,No,Never,1-5,Yes,Yes,Don't know,No,Don't know,No
+2024-01-3,28.0,Male,United Kingdom,Yes,No,Often,100-500,No,Yes,Yes,Yes,Yes,Maybe
+2024-01-28,56.0,Male,Other,No,Yes,,500+,Yes,No,Don't know,Yes,No,Maybe
+2024-01-6,56.0,Non-binary,Other,No,Yes,Often,6-25,No,No,Yes,Yes,Yes,Maybe
+2024-01-3,65.0,Male,Germany,No,No,Often,26-100,Yes,No,Don't know,Yes,No,Yes
+2024-01-20,63.0,Male,United States,No,No,Never,6-25,No,No,Yes,No,Don't know,Yes
+2024-01-3,25.0,Female,United Kingdom,Yes,Yes,Rarely,26-100,No,Yes,No,Yes,Yes,Yes
+2024-01-22,67.0,Non-binary,Other,No,No,Never,1-5,No,No,Don't know,Not sure,No,No
+2024-01-28,28.0,Female,Germany,Yes,No,Often,500+,No,Yes,Yes,No,No,No
+2024-01-8,37.0,Male,Australia,Yes,No,Often,1-5,Yes,Yes,Yes,Not sure,No,Maybe
+2024-01-13,24.0,Non-binary,Australia,No,Yes,,6-25,Yes,No,Yes,No,Yes,No
+2024-01-4,55.0,Non-binary,Other,No,No,Sometimes,500+,Yes,No,Don't know,No,No,No
+2024-01-29,19.0,Male,India,No,No,Rarely,1-5,No,Yes,No,Not sure,Yes,Yes
+2024-01-19,37.0,Female,Other,Yes,No,Never,1-5,No,Yes,No,Not sure,Don't know,Maybe
+2024-01-8,54.0,Female,,No,No,,1-5,No,Yes,Don't know,No,Don't know,Yes
+2024-01-19,61.0,Female,,Yes,No,Often,6-25,Yes,No,Don't know,Yes,Yes,No
+2024-01-20,42.0,Female,Germany,No,No,Rarely,1-5,No,No,Don't know,No,Yes,Yes
+2024-01-2,43.0,Non-binary,India,Yes,Yes,Often,100-500,No,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-20,63.0,Female,Germany,Yes,No,Often,26-100,No,No,Don't know,Yes,Don't know,No
+2024-01-3,30.0,Female,Germany,Yes,No,Never,100-500,Yes,No,Yes,Yes,No,Maybe
+2024-01-14,22.0,Non-binary,India,No,Yes,Rarely,6-25,No,No,Yes,Not sure,Don't know,No
+2024-01-22,55.0,Female,Canada,Yes,No,Rarely,6-25,Yes,Yes,No,Yes,No,No
+2024-01-19,62.0,Non-binary,Other,Yes,No,Rarely,1-5,No,No,Don't know,Yes,Don't know,No
+2024-01-19,58.0,Male,Germany,Yes,No,,500+,Yes,No,Yes,Yes,Don't know,Maybe
+2024-01-17,33.0,Non-binary,Canada,Yes,Y,Rarely,100-500,No,No,Yes,No,Yes,Yes
+2024-01-11,24.0,Non-binary,United Kingdom,No,No,Rarely,6-25,Yes,Yes,Yes,No,Don't know,Maybe
+2024-01-30,62.0,Male,Australia,No,No,Often,26-100,Yes,No,No,Yes,Don't know,No
+2024-01-9,67.0,Male,United States,No,No,Often,6-25,Yes,Yes,Don't know,Not sure,Don't know,Maybe
+2024-01-7,37.0,Male,Australia,No,No,Often,100-500,Yes,No,No,No,Yes,Maybe
+2024-01-22,61.0,Female,Australia,No,Yes,Rarely,26-100,Yes,Yes,Yes,Not sure,No,Maybe
+2024-01-23,56.0,Female,Germany,No,No,Rarely,26-100,Yes,Yes,Yes,Yes,Don't know,No
+2024-01-11,,Male,Canada,No,Yes,Rarely,1-5,No,Yes,No,Yes,Don't know,Maybe
+2024-01-8,25.0,Female,Other,Yes,Yes,Never,500+,No,Yes,Yes,Yes,Don't know,Maybe
+2024-01-9,68.0,Non-binary,Canada,No,No,Never,26-100,Yes,Yes,No,Yes,Yes,Yes
+2024-01-13,54.0,Male,India,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Yes,No,Yes
+2024-01-5,,Male,United States,No,Yes,Never,500+,No,Yes,Don't know,No,Yes,Maybe
+2024-01-22,20.0,Male,Canada,No,No,Never,1-5,Yes,No,Yes,Yes,Yes,Maybe
+2024-01-21,40.0,Non-binary,India,Yes,No,Often,6-25,Yes,Yes,Don't know,No,No,No
+2024-01-10,52.0,Female,United States,No,Yes,Often,6-25,Yes,Yes,No,No,Yes,No
+2024-01-15,45.0,Male,Canada,No,Yes,Often,500+,Yes,No,No,No,Don't know,Yes
+2024-01-11,60.0,Male,,Yes,No,Sometimes,1-5,No,Yes,Don't know,No,Don't know,Yes
+2024-01-30,41.0,Non-binary,Australia,Yes,No,Rarely,100-500,No,Yes,Don't know,No,No,No
+2024-01-25,22.0,Non-binary,United States,No,No,Often,1-5,No,Yes,Don't know,No,Yes,Yes
+2024-01-30,50.0,Female,United States,Yes,Yes,Rarely,100-500,No,No,No,Not sure,No,No
+2024-01-3,59.0,Male,Canada,No,Yes,Often,26-100,No,No,Don't know,Yes,Don't know,No
+2024-01-1,39.0,Non-binary,Other,No,No,,26-100,No,Yes,Don't know,No,Yes,Maybe
+2024-01-15,18.0,Male,Canada,Yes,No,Often,26-100,No,Yes,Yes,Yes,Yes,Maybe
+2024-01-20,44.0,Female,United States,Yes,No,Rarely,1-5,No,Yes,Yes,Yes,No,Yes
+2024-01-19,49.0,Male,,No,No,Often,500+,Yes,Yes,Don't know,Yes,Don't know,Maybe
+2024-01-4,24.0,Male,Other,Yes,No,Rarely,100-500,No,Yes,No,No,No,Maybe
+2024-01-3,45.0,Female,Other,No,No,Never,1-5,No,No,No,No,Don't know,No
+2024-01-18,41.0,Female,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Don't know,Yes
+2024-01-7,58.0,Non-binary,India,No,Yes,Never,6-25,Yes,Yes,Yes,Not sure,No,Maybe
+2024-01-17,47.0,Female,India,No,Yes,Never,26-100,Yes,No,Don't know,No,Yes,Yes
+2024-01-9,63.0,Female,India,No,No,Never,500+,No,No,Don't know,Yes,Yes,No
+2024-01-5,27.0,Male,Australia,No,No,Rarely,26-100,No,No,No,Yes,No,Maybe
+2024-01-30,45.0,Male,Australia,No,Yes,Often,500+,No,No,Yes,No,Don't know,No
+2024-01-12,29.0,Non-binary,India,No,No,Rarely,6-25,Yes,No,Yes,No,No,Maybe
+2024-01-29,64.0,Male,India,No,No,Often,100-500,No,No,Don't know,Yes,Yes,Yes
+2024-01-3,51.0,Male,Other,Yes,No,Rarely,26-100,Yes,No,Don't know,Yes,No,No
+2024-01-29,59.0,Female,Germany,No,No,Sometimes,500+,No,Yes,Don't know,Not sure,Don't know,No
+2024-01-8,35.0,Male,United States,Yes,No,Often,100-500,No,No,Don't know,Yes,Don't know,Yes
+2024-01-12,57.0,Male,Australia,Yes,No,Never,6-25,No,Yes,Yes,No,Yes,No
+2024-01-10,69.0,Non-binary,Other,No,No,Often,500+,No,Yes,Don't know,No,No,Yes
+2024-01-6,52.0,Male,India,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No,No
+2024-01-15,67.0,Male,Germany,Yes,Yes,Never,6-25,No,Yes,Don't know,Not sure,Don't know,No
+2024-01-27,48.0,Male,United Kingdom,Yes,No,Often,1-5,Yes,Yes,Yes,Yes,Don't know,No
+2024-01-18,47.0,Female,Canada,Yes,No,Often,100-500,Yes,No,No,Yes,Yes,Yes
